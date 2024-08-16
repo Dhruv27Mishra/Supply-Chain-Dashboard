@@ -1,0 +1,2001 @@
+Shipment ID,Origin,Destination,Status,Estimated Arrival Time
+2001,Phoenix,Phoenix,Delivered,2024-08-16 19:40:55.770858
+2002,Chicago,Chicago,Delayed,2024-08-16 20:40:55.770889
+2003,Los Angeles,Chicago,Delivered,2024-08-16 18:40:55.770897
+2004,Phoenix,Chicago,In Transit,2024-08-16 11:40:55.770902
+2005,New York,Chicago,In Transit,2024-08-16 04:40:55.770907
+2006,Chicago,Phoenix,In Transit,2024-08-16 05:40:55.770912
+2007,Phoenix,Houston,In Transit,2024-08-16 12:40:55.770917
+2008,New York,Chicago,Delivered,2024-08-16 11:40:55.770922
+2009,Houston,Los Angeles,In Transit,2024-08-16 04:40:55.770927
+2010,Houston,Chicago,Delayed,2024-08-16 10:40:55.770931
+2011,Chicago,Los Angeles,In Transit,2024-08-16 14:40:55.770936
+2012,Phoenix,New York,In Transit,2024-08-16 18:40:55.770940
+2013,Phoenix,Chicago,Delayed,2024-08-16 20:40:55.770945
+2014,New York,Los Angeles,In Transit,2024-08-16 06:40:55.770949
+2015,Houston,Chicago,In Transit,2024-08-16 22:40:55.770954
+2016,Houston,Phoenix,Delayed,2024-08-16 12:40:55.770958
+2017,Los Angeles,Houston,In Transit,2024-08-16 15:40:55.770962
+2018,Phoenix,New York,Delivered,2024-08-16 15:40:55.770967
+2019,Chicago,Houston,Delivered,2024-08-16 16:40:55.770971
+2020,Houston,Houston,In Transit,2024-08-16 02:40:55.770976
+2021,Chicago,Phoenix,Delivered,2024-08-16 23:40:55.770980
+2022,Chicago,Los Angeles,Delayed,2024-08-16 13:40:55.770985
+2023,Los Angeles,New York,Delivered,2024-08-16 17:40:55.770989
+2024,Houston,Houston,In Transit,2024-08-16 18:40:55.770994
+2025,Chicago,Chicago,In Transit,2024-08-16 10:40:55.770998
+2026,Houston,Los Angeles,In Transit,2024-08-16 19:40:55.771004
+2027,Los Angeles,New York,In Transit,2024-08-16 14:40:55.771009
+2028,New York,Houston,Delayed,2024-08-16 10:40:55.771014
+2029,New York,Houston,In Transit,2024-08-16 18:40:55.771018
+2030,New York,Los Angeles,Delayed,2024-08-16 04:40:55.771022
+2031,Chicago,Chicago,Delayed,2024-08-16 07:40:55.771027
+2032,Chicago,Houston,In Transit,2024-08-16 05:40:55.771034
+2033,Chicago,Phoenix,Delivered,2024-08-16 15:40:55.771038
+2034,Houston,Phoenix,Delivered,2024-08-16 10:40:55.771043
+2035,Phoenix,Los Angeles,Delivered,2024-08-16 12:40:55.771047
+2036,Houston,New York,In Transit,2024-08-16 17:40:55.771052
+2037,New York,Los Angeles,Delivered,2024-08-16 08:40:55.771056
+2038,Phoenix,Los Angeles,Delayed,2024-08-16 06:40:55.771060
+2039,Los Angeles,New York,Delivered,2024-08-16 22:40:55.771065
+2040,Phoenix,New York,Delayed,2024-08-16 17:40:55.771069
+2041,Los Angeles,New York,Delivered,2024-08-16 09:40:55.771074
+2042,Chicago,Chicago,Delayed,2024-08-16 22:40:55.771078
+2043,New York,Houston,Delivered,2024-08-16 21:40:55.771083
+2044,Chicago,Los Angeles,Delivered,2024-08-16 11:40:55.771087
+2045,Houston,Phoenix,Delayed,2024-08-16 22:40:55.771091
+2046,Chicago,New York,Delivered,2024-08-16 16:40:55.771096
+2047,Chicago,New York,Delivered,2024-08-17 00:40:55.771100
+2048,Phoenix,New York,Delivered,2024-08-16 04:40:55.771105
+2049,Los Angeles,Houston,In Transit,2024-08-16 06:40:55.771109
+2050,New York,Phoenix,In Transit,2024-08-16 15:40:55.771113
+2051,Chicago,Los Angeles,Delivered,2024-08-16 19:40:55.771118
+2052,Chicago,Houston,Delivered,2024-08-16 20:40:55.771122
+2053,Los Angeles,Chicago,In Transit,2024-08-17 00:40:55.771127
+2054,Houston,Phoenix,Delayed,2024-08-16 06:40:55.771131
+2055,Houston,Phoenix,Delivered,2024-08-16 20:40:55.771135
+2056,Phoenix,Chicago,Delivered,2024-08-16 21:40:55.771139
+2057,Los Angeles,Los Angeles,Delayed,2024-08-16 15:40:55.771144
+2058,Chicago,Phoenix,Delayed,2024-08-16 02:40:55.771148
+2059,Houston,New York,Delayed,2024-08-16 09:40:55.771153
+2060,Houston,Los Angeles,Delivered,2024-08-16 19:40:55.771157
+2061,New York,Houston,Delayed,2024-08-16 04:40:55.771161
+2062,New York,Chicago,Delayed,2024-08-16 16:40:55.771166
+2063,Phoenix,New York,In Transit,2024-08-16 22:40:55.771170
+2064,Houston,New York,Delayed,2024-08-16 02:40:55.771174
+2065,Houston,New York,Delivered,2024-08-16 13:40:55.771179
+2066,Los Angeles,Houston,Delivered,2024-08-16 16:40:55.771184
+2067,New York,New York,In Transit,2024-08-16 16:40:55.771188
+2068,New York,Phoenix,Delivered,2024-08-16 15:40:55.771193
+2069,Houston,New York,Delivered,2024-08-16 14:40:55.771197
+2070,Phoenix,Los Angeles,In Transit,2024-08-16 06:40:55.771201
+2071,Houston,Phoenix,Delayed,2024-08-16 10:40:55.771206
+2072,Chicago,New York,Delayed,2024-08-16 15:40:55.771210
+2073,New York,Houston,Delivered,2024-08-16 23:40:55.771214
+2074,New York,New York,In Transit,2024-08-16 19:40:55.771219
+2075,Los Angeles,Houston,Delayed,2024-08-16 19:40:55.771223
+2076,Phoenix,Phoenix,Delivered,2024-08-16 10:40:55.771227
+2077,Los Angeles,Phoenix,Delayed,2024-08-16 11:40:55.771232
+2078,New York,Phoenix,Delivered,2024-08-16 21:40:55.771237
+2079,Phoenix,Phoenix,Delayed,2024-08-16 10:40:55.771241
+2080,Houston,Houston,Delayed,2024-08-16 15:40:55.771246
+2081,Houston,Los Angeles,Delivered,2024-08-16 12:40:55.771250
+2082,Phoenix,Houston,Delayed,2024-08-16 22:40:55.771254
+2083,Chicago,Houston,Delivered,2024-08-16 17:40:55.771258
+2084,Houston,New York,In Transit,2024-08-16 10:40:55.771263
+2085,Los Angeles,New York,Delayed,2024-08-16 09:40:55.771267
+2086,Houston,Houston,In Transit,2024-08-16 08:40:55.771271
+2087,Houston,Chicago,Delivered,2024-08-16 06:40:55.771276
+2088,Chicago,Los Angeles,Delayed,2024-08-16 03:40:55.771280
+2089,Houston,Phoenix,Delayed,2024-08-16 12:40:55.771284
+2090,Los Angeles,Phoenix,Delayed,2024-08-16 23:40:55.771288
+2091,Los Angeles,Phoenix,In Transit,2024-08-16 04:40:55.771293
+2092,Los Angeles,New York,Delayed,2024-08-16 04:40:55.771297
+2093,New York,New York,Delayed,2024-08-16 17:40:55.771301
+2094,Houston,Los Angeles,Delivered,2024-08-16 06:40:55.771306
+2095,Houston,Los Angeles,Delayed,2024-08-16 06:40:55.771311
+2096,Phoenix,Houston,Delayed,2024-08-16 04:40:55.771315
+2097,Chicago,New York,In Transit,2024-08-16 23:40:55.771319
+2098,New York,Phoenix,In Transit,2024-08-16 04:40:55.771323
+2099,Houston,Houston,Delayed,2024-08-16 20:40:55.771328
+2100,Los Angeles,Chicago,In Transit,2024-08-16 14:40:55.771332
+2101,New York,Chicago,Delayed,2024-08-16 07:40:55.771336
+2102,New York,Los Angeles,Delayed,2024-08-16 23:40:55.771340
+2103,Los Angeles,New York,Delayed,2024-08-16 21:40:55.771345
+2104,Phoenix,New York,Delayed,2024-08-16 23:40:55.771349
+2105,Houston,Chicago,Delayed,2024-08-16 18:40:55.771353
+2106,Chicago,Los Angeles,In Transit,2024-08-16 05:40:55.771358
+2107,Phoenix,Los Angeles,Delivered,2024-08-16 11:40:55.771362
+2108,Chicago,New York,Delayed,2024-08-16 08:40:55.771366
+2109,Chicago,New York,Delayed,2024-08-16 13:40:55.771370
+2110,Houston,Chicago,Delayed,2024-08-16 17:40:55.771375
+2111,New York,Phoenix,Delayed,2024-08-16 02:40:55.771380
+2112,Los Angeles,Los Angeles,In Transit,2024-08-16 20:40:55.771384
+2113,Chicago,New York,Delayed,2024-08-16 07:40:55.771389
+2114,Phoenix,Los Angeles,Delivered,2024-08-16 08:40:55.771393
+2115,Houston,Phoenix,Delivered,2024-08-16 16:40:55.771398
+2116,Houston,Chicago,Delayed,2024-08-16 13:40:55.771402
+2117,Phoenix,Phoenix,Delayed,2024-08-16 07:40:55.771406
+2118,Chicago,Chicago,Delayed,2024-08-16 12:40:55.771411
+2119,Chicago,Los Angeles,Delivered,2024-08-16 09:40:55.771415
+2120,Chicago,Houston,In Transit,2024-08-16 19:40:55.771419
+2121,Phoenix,Los Angeles,In Transit,2024-08-16 18:40:55.771424
+2122,Chicago,Houston,In Transit,2024-08-16 20:40:55.771428
+2123,Phoenix,Los Angeles,Delivered,2024-08-16 23:40:55.771432
+2124,Houston,Phoenix,Delivered,2024-08-16 20:40:55.771437
+2125,Phoenix,Chicago,In Transit,2024-08-16 13:40:55.771441
+2126,Los Angeles,Los Angeles,Delayed,2024-08-16 08:40:55.771445
+2127,New York,New York,Delayed,2024-08-16 16:40:55.771449
+2128,New York,Chicago,In Transit,2024-08-16 17:40:55.771454
+2129,Los Angeles,Phoenix,In Transit,2024-08-16 07:40:55.771458
+2130,Phoenix,Los Angeles,Delivered,2024-08-16 03:40:55.771463
+2131,New York,Chicago,Delivered,2024-08-16 23:40:55.771468
+2132,Los Angeles,New York,Delivered,2024-08-16 15:40:55.771472
+2133,Chicago,Chicago,In Transit,2024-08-16 22:40:55.771476
+2134,Los Angeles,Los Angeles,In Transit,2024-08-16 04:40:55.771480
+2135,New York,New York,Delayed,2024-08-16 04:40:55.771485
+2136,Phoenix,Los Angeles,Delivered,2024-08-16 13:40:55.771489
+2137,Phoenix,Houston,Delayed,2024-08-16 04:40:55.771493
+2138,Phoenix,Chicago,Delayed,2024-08-17 00:40:55.771497
+2139,New York,New York,Delayed,2024-08-16 03:40:55.771502
+2140,Chicago,Los Angeles,Delivered,2024-08-16 21:40:55.771506
+2141,Phoenix,Houston,In Transit,2024-08-16 11:40:55.771510
+2142,Houston,Los Angeles,Delivered,2024-08-17 00:40:55.771515
+2143,Chicago,Los Angeles,Delivered,2024-08-16 05:40:55.771519
+2144,Los Angeles,Chicago,Delivered,2024-08-16 03:40:55.771523
+2145,Houston,Chicago,Delayed,2024-08-16 21:40:55.771528
+2146,Chicago,Houston,Delayed,2024-08-16 14:40:55.771532
+2147,New York,Chicago,Delayed,2024-08-16 09:40:55.771536
+2148,Houston,New York,In Transit,2024-08-16 07:40:55.771541
+2149,Chicago,Houston,In Transit,2024-08-16 22:40:55.771545
+2150,Chicago,Chicago,In Transit,2024-08-16 08:40:55.771549
+2151,Chicago,Phoenix,In Transit,2024-08-16 06:40:55.771554
+2152,Chicago,New York,Delivered,2024-08-16 21:40:55.771558
+2153,Phoenix,Los Angeles,Delayed,2024-08-16 07:40:55.771562
+2154,Houston,New York,Delayed,2024-08-16 17:40:55.771567
+2155,Chicago,New York,Delivered,2024-08-16 09:40:55.771571
+2156,Los Angeles,New York,Delivered,2024-08-16 17:40:55.771575
+2157,Chicago,Phoenix,Delayed,2024-08-16 04:40:55.771579
+2158,Phoenix,New York,Delayed,2024-08-16 15:40:55.771584
+2159,Houston,Phoenix,In Transit,2024-08-16 23:40:55.771588
+2160,Houston,Phoenix,In Transit,2024-08-16 17:40:55.771592
+2161,Chicago,Chicago,Delivered,2024-08-16 13:40:55.771597
+2162,Chicago,Phoenix,Delayed,2024-08-16 21:40:55.771601
+2163,Los Angeles,Phoenix,Delayed,2024-08-16 18:40:55.771605
+2164,Houston,Houston,In Transit,2024-08-16 13:40:55.771610
+2165,Houston,Phoenix,In Transit,2024-08-16 04:40:55.771614
+2166,Houston,New York,Delayed,2024-08-16 23:40:55.771618
+2167,New York,Los Angeles,Delivered,2024-08-16 19:40:55.771622
+2168,Houston,Phoenix,In Transit,2024-08-17 00:40:55.771626
+2169,Houston,Phoenix,Delayed,2024-08-16 03:40:55.771631
+2170,Los Angeles,Chicago,Delivered,2024-08-16 21:40:55.771635
+2171,Los Angeles,Chicago,Delayed,2024-08-16 09:40:55.771639
+2172,Phoenix,New York,Delayed,2024-08-16 13:40:55.771643
+2173,Los Angeles,Houston,Delayed,2024-08-16 02:40:55.771648
+2174,Houston,Phoenix,Delivered,2024-08-16 20:40:55.771652
+2175,Houston,Los Angeles,Delivered,2024-08-16 18:40:55.771657
+2176,Houston,Phoenix,Delayed,2024-08-16 07:40:55.771661
+2177,Los Angeles,Houston,Delayed,2024-08-16 22:40:55.771665
+2178,Chicago,Houston,Delivered,2024-08-16 12:40:55.771669
+2179,New York,Los Angeles,Delayed,2024-08-16 23:40:55.771674
+2180,Phoenix,New York,Delayed,2024-08-16 08:40:55.771678
+2181,Chicago,Phoenix,Delivered,2024-08-16 18:40:55.771682
+2182,New York,Phoenix,In Transit,2024-08-16 09:40:55.771686
+2183,Los Angeles,Chicago,Delivered,2024-08-16 22:40:55.771691
+2184,Phoenix,New York,In Transit,2024-08-16 10:40:55.771695
+2185,Phoenix,Los Angeles,In Transit,2024-08-16 12:40:55.771699
+2186,Los Angeles,Phoenix,Delivered,2024-08-16 22:40:55.771704
+2187,Chicago,Houston,In Transit,2024-08-16 05:40:55.771708
+2188,New York,New York,Delayed,2024-08-16 05:40:55.771712
+2189,Houston,Houston,Delivered,2024-08-16 03:40:55.771716
+2190,Houston,Houston,In Transit,2024-08-16 08:40:55.771720
+2191,New York,Phoenix,In Transit,2024-08-16 04:40:55.771725
+2192,Houston,Los Angeles,Delivered,2024-08-16 06:40:55.771729
+2193,Chicago,Los Angeles,Delivered,2024-08-17 00:40:55.771733
+2194,Los Angeles,Los Angeles,Delayed,2024-08-16 11:40:55.771737
+2195,Houston,Phoenix,In Transit,2024-08-16 16:40:55.771741
+2196,Los Angeles,Chicago,Delivered,2024-08-16 04:40:55.771746
+2197,Houston,Los Angeles,In Transit,2024-08-16 07:40:55.771750
+2198,Houston,Houston,In Transit,2024-08-16 10:40:55.771754
+2199,Phoenix,Houston,In Transit,2024-08-16 23:40:55.771758
+2200,Houston,Chicago,Delivered,2024-08-16 18:40:55.771764
+2201,Phoenix,New York,Delayed,2024-08-16 22:40:55.771769
+2202,New York,Phoenix,In Transit,2024-08-16 15:40:55.771773
+2203,Houston,Phoenix,Delivered,2024-08-16 04:40:55.771778
+2204,Houston,Houston,In Transit,2024-08-16 14:40:55.771782
+2205,Houston,Los Angeles,Delayed,2024-08-16 07:40:55.771786
+2206,Phoenix,Los Angeles,In Transit,2024-08-16 02:40:55.771791
+2207,Houston,Chicago,Delayed,2024-08-16 11:40:55.771795
+2208,Chicago,New York,Delivered,2024-08-16 06:40:55.771799
+2209,New York,Los Angeles,Delivered,2024-08-16 05:40:55.771803
+2210,Los Angeles,Los Angeles,Delivered,2024-08-16 12:40:55.771808
+2211,Los Angeles,Houston,In Transit,2024-08-16 04:40:55.771812
+2212,Phoenix,Los Angeles,Delayed,2024-08-16 20:40:55.771816
+2213,New York,Phoenix,In Transit,2024-08-16 12:40:55.771821
+2214,New York,Los Angeles,Delayed,2024-08-16 18:40:55.771825
+2215,Los Angeles,Los Angeles,Delivered,2024-08-16 18:40:55.771829
+2216,Phoenix,New York,In Transit,2024-08-17 00:40:55.771834
+2217,Chicago,Phoenix,Delivered,2024-08-16 20:40:55.771838
+2218,New York,Chicago,Delivered,2024-08-16 07:40:55.771842
+2219,Los Angeles,Phoenix,Delayed,2024-08-16 03:40:55.771847
+2220,Chicago,Chicago,Delayed,2024-08-16 11:40:55.771851
+2221,Chicago,New York,Delayed,2024-08-16 16:40:55.771855
+2222,Chicago,New York,In Transit,2024-08-16 22:40:55.771859
+2223,Houston,Houston,Delivered,2024-08-16 13:40:55.771864
+2224,Chicago,New York,In Transit,2024-08-16 18:40:55.771868
+2225,Chicago,Los Angeles,Delayed,2024-08-16 05:40:55.771872
+2226,Los Angeles,Phoenix,Delayed,2024-08-16 07:40:55.771877
+2227,Phoenix,Chicago,Delayed,2024-08-17 00:40:55.771881
+2228,Houston,Phoenix,Delivered,2024-08-16 12:40:55.771885
+2229,Los Angeles,Phoenix,Delivered,2024-08-16 07:40:55.771889
+2230,Los Angeles,Phoenix,Delayed,2024-08-16 07:40:55.771894
+2231,Chicago,Phoenix,Delivered,2024-08-16 03:40:55.771898
+2232,Houston,Phoenix,Delivered,2024-08-16 18:40:55.771902
+2233,Phoenix,New York,In Transit,2024-08-16 21:40:55.771906
+2234,Phoenix,Phoenix,In Transit,2024-08-16 05:40:55.771911
+2235,Los Angeles,Phoenix,Delayed,2024-08-16 19:40:55.771916
+2236,Houston,Chicago,Delayed,2024-08-16 06:40:55.771920
+2237,Los Angeles,Phoenix,Delivered,2024-08-16 10:40:55.771924
+2238,Los Angeles,Phoenix,In Transit,2024-08-16 23:40:55.771929
+2239,Phoenix,Phoenix,In Transit,2024-08-16 13:40:55.771933
+2240,Phoenix,Los Angeles,Delayed,2024-08-17 00:40:55.771937
+2241,Los Angeles,Los Angeles,In Transit,2024-08-16 15:40:55.771941
+2242,Phoenix,Los Angeles,Delivered,2024-08-16 15:40:55.771946
+2243,Phoenix,Phoenix,In Transit,2024-08-16 16:40:55.771950
+2244,Chicago,New York,In Transit,2024-08-16 23:40:55.771954
+2245,Chicago,Los Angeles,Delayed,2024-08-16 18:40:55.771958
+2246,New York,Houston,In Transit,2024-08-16 22:40:55.771962
+2247,New York,Los Angeles,Delayed,2024-08-16 05:40:55.771967
+2248,Los Angeles,Chicago,Delayed,2024-08-16 15:40:55.771971
+2249,Los Angeles,New York,In Transit,2024-08-16 13:40:55.771975
+2250,Los Angeles,Chicago,Delayed,2024-08-16 07:40:55.771980
+2251,Los Angeles,Chicago,Delivered,2024-08-17 00:40:55.771984
+2252,Phoenix,Los Angeles,Delayed,2024-08-16 23:40:55.771988
+2253,New York,Chicago,Delayed,2024-08-16 23:40:55.771993
+2254,Los Angeles,Chicago,In Transit,2024-08-16 13:40:55.771997
+2255,Chicago,New York,In Transit,2024-08-16 12:40:55.772001
+2256,Phoenix,Los Angeles,Delayed,2024-08-16 17:40:55.772005
+2257,New York,New York,Delayed,2024-08-16 18:40:55.772010
+2258,Phoenix,Phoenix,Delayed,2024-08-16 15:40:55.772014
+2259,Houston,Los Angeles,Delivered,2024-08-16 02:40:55.772018
+2260,Los Angeles,Chicago,In Transit,2024-08-16 09:40:55.772023
+2261,Chicago,Los Angeles,Delivered,2024-08-16 13:40:55.772027
+2262,New York,Los Angeles,In Transit,2024-08-16 09:40:55.772032
+2263,Phoenix,Phoenix,In Transit,2024-08-16 10:40:55.772036
+2264,New York,New York,Delivered,2024-08-16 04:40:55.772040
+2265,Houston,Los Angeles,Delivered,2024-08-16 16:40:55.772045
+2266,Chicago,Los Angeles,In Transit,2024-08-16 12:40:55.772049
+2267,Phoenix,Houston,In Transit,2024-08-16 19:40:55.772053
+2268,Houston,Los Angeles,Delivered,2024-08-16 08:40:55.772058
+2269,Chicago,New York,Delivered,2024-08-16 02:40:55.772062
+2270,Los Angeles,Houston,In Transit,2024-08-16 17:40:55.772067
+2271,New York,Chicago,Delivered,2024-08-16 02:40:55.772071
+2272,Houston,Chicago,Delayed,2024-08-17 00:40:55.772075
+2273,New York,Los Angeles,In Transit,2024-08-16 23:40:55.772080
+2274,New York,New York,Delivered,2024-08-16 14:40:55.772084
+2275,Houston,Los Angeles,Delayed,2024-08-16 23:40:55.772089
+2276,Houston,Chicago,In Transit,2024-08-16 13:40:55.772093
+2277,Phoenix,Los Angeles,In Transit,2024-08-16 12:40:55.772097
+2278,Chicago,Los Angeles,Delivered,2024-08-16 15:40:55.772102
+2279,Los Angeles,Chicago,Delayed,2024-08-16 02:40:55.772106
+2280,Chicago,Chicago,Delivered,2024-08-16 15:40:55.772110
+2281,Los Angeles,Houston,Delivered,2024-08-16 18:40:55.772115
+2282,Los Angeles,Houston,Delayed,2024-08-16 23:40:55.772119
+2283,Phoenix,New York,Delivered,2024-08-16 14:40:55.772124
+2284,Chicago,New York,In Transit,2024-08-16 07:40:55.772133
+2285,Houston,Chicago,Delayed,2024-08-16 19:40:55.772137
+2286,New York,New York,Delivered,2024-08-16 07:40:55.772141
+2287,Phoenix,New York,Delivered,2024-08-16 03:40:55.772146
+2288,Phoenix,Houston,Delivered,2024-08-16 16:40:55.772150
+2289,Phoenix,Chicago,In Transit,2024-08-16 07:40:55.772154
+2290,Houston,Houston,In Transit,2024-08-16 11:40:55.772158
+2291,New York,Los Angeles,Delayed,2024-08-16 22:40:55.772163
+2292,Los Angeles,Chicago,Delayed,2024-08-16 04:40:55.772167
+2293,Houston,Phoenix,In Transit,2024-08-16 02:40:55.772171
+2294,Chicago,New York,Delayed,2024-08-16 21:40:55.772176
+2295,Chicago,New York,In Transit,2024-08-16 10:40:55.772180
+2296,Houston,Chicago,In Transit,2024-08-16 13:40:55.772184
+2297,Phoenix,Phoenix,Delivered,2024-08-16 04:40:55.772189
+2298,Houston,Chicago,Delayed,2024-08-16 15:40:55.772193
+2299,New York,New York,Delivered,2024-08-16 16:40:55.772197
+2300,Los Angeles,New York,In Transit,2024-08-16 20:40:55.772202
+2301,Los Angeles,Chicago,Delayed,2024-08-16 18:40:55.772206
+2302,Los Angeles,Los Angeles,Delivered,2024-08-16 05:40:55.772210
+2303,Los Angeles,Houston,In Transit,2024-08-16 02:40:55.772214
+2304,Phoenix,Chicago,In Transit,2024-08-16 09:40:55.772219
+2305,Chicago,Los Angeles,Delivered,2024-08-16 05:40:55.772224
+2306,Chicago,Phoenix,Delivered,2024-08-16 03:40:55.772228
+2307,Houston,New York,Delivered,2024-08-16 23:40:55.772232
+2308,Los Angeles,New York,Delayed,2024-08-16 23:40:55.772237
+2309,Chicago,Chicago,Delayed,2024-08-16 18:40:55.772241
+2310,New York,Phoenix,Delivered,2024-08-16 05:40:55.772246
+2311,Houston,Chicago,Delivered,2024-08-16 05:40:55.772250
+2312,Phoenix,Houston,In Transit,2024-08-16 08:40:55.772254
+2313,Chicago,Chicago,Delayed,2024-08-16 02:40:55.772259
+2314,Los Angeles,New York,Delivered,2024-08-16 19:40:55.772263
+2315,Phoenix,New York,Delayed,2024-08-16 08:40:55.772268
+2316,New York,Los Angeles,Delayed,2024-08-16 10:40:55.772272
+2317,New York,Houston,Delayed,2024-08-16 09:40:55.772276
+2318,New York,Los Angeles,In Transit,2024-08-16 20:40:55.772281
+2319,Phoenix,Houston,Delivered,2024-08-16 14:40:55.772285
+2320,Chicago,New York,Delivered,2024-08-16 08:40:55.772289
+2321,Chicago,Chicago,Delivered,2024-08-16 03:40:55.772294
+2322,Los Angeles,New York,In Transit,2024-08-16 10:40:55.772298
+2323,Phoenix,Los Angeles,In Transit,2024-08-16 06:40:55.772302
+2324,Chicago,Los Angeles,In Transit,2024-08-16 07:40:55.772306
+2325,Houston,Chicago,Delivered,2024-08-16 20:40:55.772311
+2326,Los Angeles,Phoenix,Delayed,2024-08-16 03:40:55.772315
+2327,Chicago,New York,In Transit,2024-08-16 21:40:55.772319
+2328,Houston,Los Angeles,Delayed,2024-08-16 03:40:55.772324
+2329,Los Angeles,Phoenix,In Transit,2024-08-16 16:40:55.772328
+2330,New York,Phoenix,In Transit,2024-08-16 14:40:55.772332
+2331,New York,New York,In Transit,2024-08-16 05:40:55.772336
+2332,Houston,Los Angeles,Delivered,2024-08-16 10:40:55.772341
+2333,New York,Phoenix,In Transit,2024-08-16 11:40:55.772345
+2334,Houston,Los Angeles,Delivered,2024-08-16 22:40:55.772349
+2335,Los Angeles,Phoenix,In Transit,2024-08-16 09:40:55.772353
+2336,Chicago,New York,In Transit,2024-08-16 13:40:55.772358
+2337,Los Angeles,New York,Delayed,2024-08-16 14:40:55.772362
+2338,Houston,Los Angeles,In Transit,2024-08-16 19:40:55.772366
+2339,Phoenix,New York,In Transit,2024-08-16 05:40:55.772370
+2340,Phoenix,Houston,Delayed,2024-08-16 02:40:55.772375
+2341,Houston,New York,In Transit,2024-08-16 02:40:55.772379
+2342,New York,Chicago,Delivered,2024-08-16 16:40:55.772383
+2343,Houston,New York,In Transit,2024-08-16 13:40:55.772387
+2344,Chicago,Los Angeles,Delivered,2024-08-16 21:40:55.772392
+2345,Los Angeles,Phoenix,In Transit,2024-08-16 13:40:55.772396
+2346,Houston,Houston,Delivered,2024-08-16 21:40:55.772400
+2347,Chicago,Los Angeles,In Transit,2024-08-16 19:40:55.772405
+2348,Phoenix,Los Angeles,Delayed,2024-08-16 06:40:55.772409
+2349,Houston,Phoenix,In Transit,2024-08-17 00:40:55.772413
+2350,New York,Phoenix,Delivered,2024-08-17 00:40:55.772417
+2351,Houston,Chicago,In Transit,2024-08-17 00:40:55.772421
+2352,Phoenix,Los Angeles,In Transit,2024-08-16 03:40:55.772426
+2353,Chicago,Houston,In Transit,2024-08-16 15:40:55.772430
+2354,Houston,Chicago,Delivered,2024-08-16 03:40:55.772435
+2355,Houston,Chicago,Delivered,2024-08-16 10:40:55.772439
+2356,New York,Houston,In Transit,2024-08-16 17:40:55.772444
+2357,Houston,Phoenix,In Transit,2024-08-16 18:40:55.772448
+2358,Los Angeles,Phoenix,In Transit,2024-08-16 08:40:55.772452
+2359,Houston,Los Angeles,Delayed,2024-08-17 00:40:55.772456
+2360,Chicago,Chicago,Delayed,2024-08-16 13:40:55.772460
+2361,Los Angeles,Houston,In Transit,2024-08-16 14:40:55.772465
+2362,New York,Houston,In Transit,2024-08-16 05:40:55.772469
+2363,Chicago,Houston,In Transit,2024-08-16 14:40:55.772473
+2364,New York,Chicago,In Transit,2024-08-16 05:40:55.772478
+2365,Houston,New York,Delayed,2024-08-16 12:40:55.772482
+2366,Houston,New York,Delivered,2024-08-16 14:40:55.772486
+2367,Houston,Los Angeles,Delivered,2024-08-16 04:40:55.772491
+2368,Phoenix,Chicago,Delivered,2024-08-16 13:40:55.772497
+2369,Phoenix,Chicago,In Transit,2024-08-16 10:40:55.772501
+2370,Phoenix,New York,Delayed,2024-08-16 03:40:55.772505
+2371,Los Angeles,Phoenix,Delivered,2024-08-16 21:40:55.772510
+2372,Phoenix,New York,Delayed,2024-08-16 06:40:55.772514
+2373,Houston,Chicago,In Transit,2024-08-16 22:40:55.772518
+2374,Houston,Houston,In Transit,2024-08-16 21:40:55.772522
+2375,New York,Chicago,Delivered,2024-08-16 21:40:55.772527
+2376,Chicago,Los Angeles,In Transit,2024-08-16 05:40:55.772531
+2377,Chicago,New York,Delivered,2024-08-16 22:40:55.772535
+2378,Los Angeles,Los Angeles,Delayed,2024-08-16 09:40:55.772539
+2379,Chicago,New York,In Transit,2024-08-16 12:40:55.772544
+2380,Los Angeles,New York,Delivered,2024-08-16 15:40:55.772548
+2381,New York,Los Angeles,Delivered,2024-08-16 05:40:55.772552
+2382,Houston,Los Angeles,In Transit,2024-08-16 20:40:55.772556
+2383,Houston,Houston,Delayed,2024-08-16 17:40:55.772561
+2384,Los Angeles,Los Angeles,Delayed,2024-08-16 19:40:55.772565
+2385,Phoenix,Phoenix,Delayed,2024-08-16 20:40:55.772569
+2386,New York,Chicago,In Transit,2024-08-16 05:40:55.772573
+2387,Houston,Houston,In Transit,2024-08-16 11:40:55.772578
+2388,Houston,New York,Delayed,2024-08-16 12:40:55.772582
+2389,New York,Phoenix,In Transit,2024-08-16 20:40:55.772586
+2390,Los Angeles,Los Angeles,Delayed,2024-08-17 00:40:55.772590
+2391,Phoenix,Los Angeles,Delivered,2024-08-16 07:40:55.772595
+2392,Los Angeles,Phoenix,Delivered,2024-08-16 17:40:55.772599
+2393,New York,Chicago,Delayed,2024-08-17 00:40:55.772603
+2394,Chicago,Phoenix,In Transit,2024-08-16 15:40:55.772607
+2395,Los Angeles,New York,Delayed,2024-08-16 19:40:55.772612
+2396,Chicago,Phoenix,In Transit,2024-08-16 13:40:55.772616
+2397,New York,Houston,Delivered,2024-08-16 04:40:55.772620
+2398,Chicago,Phoenix,Delivered,2024-08-16 16:40:55.772624
+2399,Houston,Phoenix,In Transit,2024-08-16 12:40:55.772628
+2400,Chicago,New York,Delayed,2024-08-16 05:40:55.772633
+2401,Phoenix,New York,In Transit,2024-08-16 10:40:55.772637
+2402,Phoenix,Chicago,Delayed,2024-08-16 03:40:55.772641
+2403,New York,New York,Delayed,2024-08-16 09:40:55.772646
+2404,Phoenix,New York,Delivered,2024-08-16 20:40:55.772650
+2405,Chicago,New York,Delayed,2024-08-16 14:40:55.772654
+2406,Houston,Phoenix,Delivered,2024-08-16 20:40:55.772658
+2407,New York,Phoenix,Delivered,2024-08-16 10:40:55.772663
+2408,Los Angeles,New York,In Transit,2024-08-16 02:40:55.772667
+2409,Houston,Los Angeles,Delivered,2024-08-16 21:40:55.772671
+2410,Los Angeles,New York,Delivered,2024-08-16 14:40:55.772675
+2411,New York,New York,Delivered,2024-08-16 11:40:55.772680
+2412,Los Angeles,Chicago,Delayed,2024-08-16 13:40:55.772684
+2413,Houston,New York,In Transit,2024-08-16 12:40:55.772688
+2414,Phoenix,New York,Delayed,2024-08-16 14:40:55.772692
+2415,New York,Chicago,Delivered,2024-08-16 12:40:55.772696
+2416,Phoenix,New York,Delayed,2024-08-16 08:40:55.772701
+2417,Phoenix,New York,Delivered,2024-08-17 00:40:55.772705
+2418,Phoenix,Houston,In Transit,2024-08-16 14:40:55.772709
+2419,Houston,Chicago,Delivered,2024-08-16 09:40:55.772713
+2420,Chicago,Chicago,Delivered,2024-08-16 14:40:55.772718
+2421,Phoenix,Houston,Delivered,2024-08-16 22:40:55.772722
+2422,Chicago,Chicago,Delayed,2024-08-16 11:40:55.772726
+2423,New York,Los Angeles,Delivered,2024-08-16 06:40:55.772730
+2424,Los Angeles,Phoenix,Delivered,2024-08-16 05:40:55.772735
+2425,Phoenix,Phoenix,Delivered,2024-08-16 14:40:55.772739
+2426,Chicago,Chicago,Delivered,2024-08-16 09:40:55.772743
+2427,New York,Phoenix,Delivered,2024-08-16 15:40:55.772747
+2428,Houston,New York,Delivered,2024-08-16 20:40:55.772751
+2429,New York,New York,Delayed,2024-08-16 03:40:55.772756
+2430,Houston,Los Angeles,In Transit,2024-08-16 04:40:55.772760
+2431,Los Angeles,Houston,In Transit,2024-08-16 14:40:55.772764
+2432,Los Angeles,Phoenix,In Transit,2024-08-16 23:40:55.772769
+2433,Chicago,Los Angeles,In Transit,2024-08-16 05:40:55.772773
+2434,Houston,Phoenix,Delayed,2024-08-16 19:40:55.772777
+2435,Houston,New York,Delivered,2024-08-16 08:40:55.772781
+2436,Los Angeles,Los Angeles,Delivered,2024-08-16 14:40:55.772786
+2437,New York,Los Angeles,Delayed,2024-08-16 03:40:55.772790
+2438,New York,Houston,In Transit,2024-08-16 10:40:55.772794
+2439,Chicago,New York,Delayed,2024-08-16 23:40:55.772798
+2440,Los Angeles,Los Angeles,Delayed,2024-08-16 17:40:55.772803
+2441,Los Angeles,New York,In Transit,2024-08-16 05:40:55.772807
+2442,Phoenix,New York,Delayed,2024-08-16 21:40:55.772811
+2443,Chicago,Chicago,Delivered,2024-08-17 00:40:55.772815
+2444,Los Angeles,Chicago,Delayed,2024-08-16 06:40:55.772820
+2445,Phoenix,Houston,In Transit,2024-08-16 23:40:55.772824
+2446,Houston,New York,In Transit,2024-08-16 23:40:55.772828
+2447,Phoenix,Chicago,In Transit,2024-08-16 04:40:55.772833
+2448,Los Angeles,Phoenix,Delayed,2024-08-16 21:40:55.772837
+2449,New York,New York,In Transit,2024-08-16 10:40:55.772841
+2450,Chicago,Los Angeles,Delivered,2024-08-16 07:40:55.772846
+2451,Houston,New York,In Transit,2024-08-16 21:40:55.772850
+2452,New York,Los Angeles,Delivered,2024-08-16 14:40:55.772856
+2453,Chicago,Houston,Delayed,2024-08-16 06:40:55.772861
+2454,Houston,Chicago,In Transit,2024-08-16 12:40:55.772866
+2455,Houston,Phoenix,In Transit,2024-08-16 08:40:55.772870
+2456,Los Angeles,Chicago,Delivered,2024-08-16 20:40:55.772874
+2457,Phoenix,Los Angeles,Delayed,2024-08-16 10:40:55.772878
+2458,New York,Houston,Delivered,2024-08-16 13:40:55.772883
+2459,Phoenix,Los Angeles,Delayed,2024-08-16 12:40:55.772887
+2460,Los Angeles,Houston,Delivered,2024-08-16 07:40:55.772891
+2461,Los Angeles,Houston,Delivered,2024-08-16 23:40:55.772896
+2462,New York,Phoenix,In Transit,2024-08-16 10:40:55.772900
+2463,Houston,Phoenix,Delivered,2024-08-16 14:40:55.772904
+2464,Chicago,Chicago,Delayed,2024-08-16 11:40:55.772909
+2465,Houston,Phoenix,Delivered,2024-08-16 11:40:55.772913
+2466,Phoenix,Los Angeles,Delayed,2024-08-16 13:40:55.772917
+2467,New York,Los Angeles,Delivered,2024-08-16 09:40:55.772921
+2468,Los Angeles,Houston,In Transit,2024-08-16 03:40:55.772926
+2469,Houston,Chicago,Delivered,2024-08-16 11:40:55.772930
+2470,New York,Chicago,Delayed,2024-08-16 08:40:55.772934
+2471,Chicago,Chicago,Delayed,2024-08-16 10:40:55.772939
+2472,Los Angeles,Houston,In Transit,2024-08-16 07:40:55.772943
+2473,Houston,Phoenix,Delayed,2024-08-16 16:40:55.772948
+2474,Los Angeles,New York,In Transit,2024-08-16 18:40:55.772952
+2475,Phoenix,Los Angeles,Delivered,2024-08-16 10:40:55.772956
+2476,Chicago,Houston,Delayed,2024-08-16 16:40:55.772960
+2477,Chicago,Los Angeles,In Transit,2024-08-16 13:40:55.772965
+2478,Chicago,Phoenix,Delivered,2024-08-16 17:40:55.772969
+2479,Phoenix,Phoenix,Delivered,2024-08-16 10:40:55.772973
+2480,Houston,Houston,In Transit,2024-08-16 17:40:55.772978
+2481,Houston,Houston,In Transit,2024-08-16 21:40:55.772982
+2482,Houston,New York,Delivered,2024-08-16 20:40:55.772986
+2483,Houston,Chicago,Delivered,2024-08-16 17:40:55.772991
+2484,Houston,New York,In Transit,2024-08-16 07:40:55.772995
+2485,New York,Houston,In Transit,2024-08-16 09:40:55.772999
+2486,Phoenix,New York,Delivered,2024-08-16 09:40:55.773004
+2487,Chicago,Los Angeles,Delivered,2024-08-17 00:40:55.773008
+2488,Houston,Phoenix,Delayed,2024-08-16 18:40:55.773012
+2489,Houston,Phoenix,Delayed,2024-08-16 21:40:55.773016
+2490,Chicago,New York,In Transit,2024-08-16 16:40:55.773021
+2491,Chicago,Chicago,In Transit,2024-08-16 04:40:55.773025
+2492,New York,Houston,Delivered,2024-08-16 13:40:55.773029
+2493,Phoenix,Phoenix,Delivered,2024-08-16 17:40:55.773034
+2494,Los Angeles,New York,In Transit,2024-08-16 22:40:55.773038
+2495,New York,Houston,In Transit,2024-08-16 12:40:55.773042
+2496,Los Angeles,Phoenix,In Transit,2024-08-16 23:40:55.773047
+2497,New York,New York,In Transit,2024-08-16 12:40:55.773051
+2498,Phoenix,Houston,Delivered,2024-08-16 11:40:55.773055
+2499,Phoenix,Chicago,Delayed,2024-08-16 19:40:55.773059
+2500,Los Angeles,New York,Delayed,2024-08-16 19:40:55.773064
+2501,Houston,New York,In Transit,2024-08-16 18:40:55.773068
+2502,Houston,New York,In Transit,2024-08-16 13:40:55.773072
+2503,Houston,Phoenix,Delayed,2024-08-16 06:40:55.773077
+2504,Los Angeles,Chicago,Delivered,2024-08-16 06:40:55.773081
+2505,Houston,Chicago,Delivered,2024-08-16 12:40:55.773085
+2506,Chicago,New York,In Transit,2024-08-16 02:40:55.773090
+2507,Chicago,New York,In Transit,2024-08-16 20:40:55.773094
+2508,Phoenix,Chicago,Delayed,2024-08-16 14:40:55.773098
+2509,Los Angeles,Houston,In Transit,2024-08-16 05:40:55.773103
+2510,Houston,New York,Delayed,2024-08-16 18:40:55.773107
+2511,Chicago,Chicago,Delivered,2024-08-16 04:40:55.773111
+2512,Houston,Phoenix,In Transit,2024-08-16 13:40:55.773116
+2513,New York,Chicago,Delayed,2024-08-16 10:40:55.773120
+2514,Houston,Houston,In Transit,2024-08-16 07:40:55.773124
+2515,Phoenix,New York,In Transit,2024-08-16 12:40:55.773128
+2516,New York,Chicago,Delayed,2024-08-16 11:40:55.773132
+2517,Los Angeles,Los Angeles,In Transit,2024-08-16 20:40:55.773137
+2518,Houston,New York,Delayed,2024-08-16 14:40:55.773141
+2519,Houston,New York,In Transit,2024-08-16 13:40:55.773145
+2520,New York,Los Angeles,In Transit,2024-08-16 08:40:55.773149
+2521,Phoenix,New York,In Transit,2024-08-16 18:40:55.773153
+2522,Phoenix,Phoenix,Delayed,2024-08-16 06:40:55.773158
+2523,Phoenix,Phoenix,In Transit,2024-08-16 08:40:55.773162
+2524,Los Angeles,Houston,Delivered,2024-08-16 17:40:55.773166
+2525,New York,Houston,Delayed,2024-08-16 23:40:55.773170
+2526,Chicago,Chicago,Delivered,2024-08-16 12:40:55.773175
+2527,Los Angeles,Chicago,Delivered,2024-08-16 12:40:55.773179
+2528,Phoenix,Phoenix,Delayed,2024-08-16 09:40:55.773183
+2529,Phoenix,New York,Delayed,2024-08-17 00:40:55.773187
+2530,Houston,Los Angeles,Delivered,2024-08-16 03:40:55.773191
+2531,Los Angeles,Phoenix,Delayed,2024-08-16 02:40:55.773196
+2532,New York,Houston,Delivered,2024-08-16 22:40:55.773200
+2533,Phoenix,Houston,In Transit,2024-08-16 06:40:55.773204
+2534,Chicago,Houston,Delayed,2024-08-16 23:40:55.773208
+2535,Houston,Los Angeles,Delayed,2024-08-16 14:40:55.773212
+2536,New York,Houston,Delivered,2024-08-16 16:40:55.773218
+2537,New York,Houston,Delivered,2024-08-16 22:40:55.773222
+2538,New York,Chicago,Delivered,2024-08-16 03:40:55.773227
+2539,Houston,New York,Delivered,2024-08-16 21:40:55.773231
+2540,Chicago,New York,Delivered,2024-08-16 07:40:55.773235
+2541,Phoenix,Los Angeles,In Transit,2024-08-16 21:40:55.773239
+2542,Houston,Houston,Delayed,2024-08-16 09:40:55.773243
+2543,Houston,Chicago,In Transit,2024-08-16 16:40:55.773248
+2544,Chicago,New York,In Transit,2024-08-16 11:40:55.773252
+2545,New York,Los Angeles,Delivered,2024-08-16 19:40:55.773256
+2546,Phoenix,Chicago,Delivered,2024-08-16 19:40:55.773260
+2547,Los Angeles,Houston,Delayed,2024-08-16 04:40:55.773264
+2548,New York,Los Angeles,Delivered,2024-08-16 16:40:55.773269
+2549,New York,Chicago,In Transit,2024-08-16 04:40:55.773273
+2550,Chicago,New York,Delayed,2024-08-16 09:40:55.773277
+2551,Los Angeles,Phoenix,In Transit,2024-08-16 11:40:55.773281
+2552,Phoenix,New York,In Transit,2024-08-16 13:40:55.773285
+2553,Phoenix,Phoenix,In Transit,2024-08-16 13:40:55.773290
+2554,Phoenix,Los Angeles,In Transit,2024-08-16 17:40:55.773294
+2555,Chicago,Chicago,In Transit,2024-08-16 23:40:55.773298
+2556,Los Angeles,Chicago,In Transit,2024-08-16 17:40:55.773302
+2557,Los Angeles,Chicago,In Transit,2024-08-17 00:40:55.773306
+2558,New York,Houston,In Transit,2024-08-16 02:40:55.773310
+2559,Houston,New York,Delayed,2024-08-16 10:40:55.773315
+2560,Los Angeles,Phoenix,In Transit,2024-08-16 11:40:55.773319
+2561,Phoenix,Houston,Delivered,2024-08-16 23:40:55.773323
+2562,Phoenix,Los Angeles,Delayed,2024-08-16 06:40:55.773327
+2563,Houston,Los Angeles,Delivered,2024-08-16 07:40:55.773331
+2564,Houston,Houston,In Transit,2024-08-16 12:40:55.773336
+2565,New York,Phoenix,Delayed,2024-08-16 04:40:55.773340
+2566,New York,Los Angeles,Delayed,2024-08-16 17:40:55.773344
+2567,Chicago,New York,Delivered,2024-08-16 08:40:55.773348
+2568,Phoenix,Los Angeles,Delayed,2024-08-16 23:40:55.773352
+2569,Chicago,Phoenix,Delivered,2024-08-17 00:40:55.773357
+2570,Phoenix,New York,Delayed,2024-08-17 00:40:55.773361
+2571,Chicago,Houston,Delayed,2024-08-16 19:40:55.773365
+2572,New York,Phoenix,In Transit,2024-08-16 20:40:55.773369
+2573,Los Angeles,New York,In Transit,2024-08-16 05:40:55.773373
+2574,Houston,New York,In Transit,2024-08-16 20:40:55.773377
+2575,Phoenix,New York,In Transit,2024-08-16 07:40:55.773382
+2576,New York,Phoenix,Delivered,2024-08-16 11:40:55.773386
+2577,New York,Chicago,Delayed,2024-08-16 04:40:55.773390
+2578,New York,Los Angeles,Delayed,2024-08-16 11:40:55.773394
+2579,Chicago,Chicago,In Transit,2024-08-16 20:40:55.773398
+2580,Houston,Los Angeles,Delayed,2024-08-16 21:40:55.773403
+2581,New York,Phoenix,In Transit,2024-08-16 02:40:55.773407
+2582,Chicago,Los Angeles,In Transit,2024-08-16 02:40:55.773411
+2583,New York,Phoenix,Delayed,2024-08-16 12:40:55.773415
+2584,Chicago,New York,In Transit,2024-08-16 11:40:55.773419
+2585,Los Angeles,Houston,Delivered,2024-08-16 23:40:55.773424
+2586,Chicago,Chicago,In Transit,2024-08-16 05:40:55.773428
+2587,Phoenix,Chicago,In Transit,2024-08-16 11:40:55.773432
+2588,Houston,Phoenix,Delivered,2024-08-16 18:40:55.773436
+2589,Chicago,Los Angeles,In Transit,2024-08-16 12:40:55.773440
+2590,Houston,Los Angeles,In Transit,2024-08-16 07:40:55.773444
+2591,Chicago,Houston,In Transit,2024-08-16 06:40:55.773449
+2592,Houston,New York,Delivered,2024-08-16 19:40:55.773453
+2593,Los Angeles,Los Angeles,In Transit,2024-08-16 18:40:55.773457
+2594,Phoenix,Los Angeles,In Transit,2024-08-16 18:40:55.773461
+2595,Phoenix,New York,Delayed,2024-08-16 02:40:55.773466
+2596,Phoenix,Houston,Delivered,2024-08-16 22:40:55.773470
+2597,Chicago,Los Angeles,Delivered,2024-08-16 06:40:55.773474
+2598,Phoenix,Phoenix,Delivered,2024-08-16 18:40:55.773478
+2599,New York,New York,In Transit,2024-08-16 10:40:55.773482
+2600,New York,Los Angeles,Delivered,2024-08-16 09:40:55.773487
+2601,Phoenix,Houston,Delivered,2024-08-16 19:40:55.773491
+2602,Phoenix,Chicago,In Transit,2024-08-16 14:40:55.773495
+2603,Chicago,Phoenix,Delayed,2024-08-16 13:40:55.773499
+2604,Phoenix,Phoenix,Delivered,2024-08-16 08:40:55.773503
+2605,Houston,Phoenix,Delivered,2024-08-16 06:40:55.773507
+2606,Los Angeles,Phoenix,Delivered,2024-08-16 13:40:55.773512
+2607,Chicago,Chicago,Delivered,2024-08-16 14:40:55.773517
+2608,Chicago,Chicago,In Transit,2024-08-17 00:40:55.773521
+2609,New York,Chicago,Delivered,2024-08-16 22:40:55.773525
+2610,Chicago,Chicago,In Transit,2024-08-16 18:40:55.773529
+2611,Chicago,Houston,In Transit,2024-08-16 22:40:55.773533
+2612,Los Angeles,Los Angeles,Delayed,2024-08-16 21:40:55.773537
+2613,Houston,Chicago,Delivered,2024-08-16 22:40:55.773542
+2614,Los Angeles,Chicago,Delivered,2024-08-16 13:40:55.773546
+2615,Houston,Houston,Delivered,2024-08-16 11:40:55.773550
+2616,New York,New York,Delayed,2024-08-16 11:40:55.773554
+2617,Los Angeles,Houston,Delivered,2024-08-16 08:40:55.773558
+2618,Los Angeles,New York,In Transit,2024-08-16 03:40:55.773563
+2619,Los Angeles,Phoenix,Delivered,2024-08-16 15:40:55.773567
+2620,Phoenix,Houston,Delayed,2024-08-16 21:40:55.773572
+2621,Phoenix,Phoenix,Delivered,2024-08-16 04:40:55.773577
+2622,Los Angeles,New York,Delayed,2024-08-16 15:40:55.773581
+2623,Chicago,Houston,Delivered,2024-08-16 10:40:55.773585
+2624,New York,New York,Delayed,2024-08-16 23:40:55.773589
+2625,Chicago,New York,Delivered,2024-08-16 18:40:55.773593
+2626,New York,Phoenix,Delivered,2024-08-17 00:40:55.773598
+2627,New York,New York,Delayed,2024-08-16 10:40:55.773602
+2628,Phoenix,Los Angeles,Delivered,2024-08-16 20:40:55.773606
+2629,New York,Chicago,Delayed,2024-08-16 17:40:55.773610
+2630,Los Angeles,Houston,Delivered,2024-08-16 08:40:55.773614
+2631,Los Angeles,Phoenix,In Transit,2024-08-16 22:40:55.773618
+2632,New York,Chicago,Delayed,2024-08-16 16:40:55.773623
+2633,Phoenix,Phoenix,Delayed,2024-08-16 17:40:55.773627
+2634,Chicago,Los Angeles,Delivered,2024-08-16 12:40:55.773631
+2635,Phoenix,Chicago,In Transit,2024-08-16 16:40:55.773635
+2636,Phoenix,Houston,Delayed,2024-08-16 23:40:55.773639
+2637,Chicago,New York,In Transit,2024-08-16 22:40:55.773644
+2638,Los Angeles,New York,Delayed,2024-08-16 02:40:55.773648
+2639,Houston,Chicago,Delivered,2024-08-16 22:40:55.773652
+2640,Phoenix,Phoenix,In Transit,2024-08-16 10:40:55.773656
+2641,Los Angeles,Houston,In Transit,2024-08-16 03:40:55.773660
+2642,New York,New York,Delayed,2024-08-16 14:40:55.773664
+2643,Phoenix,Chicago,In Transit,2024-08-16 03:40:55.773669
+2644,Phoenix,Chicago,Delivered,2024-08-16 09:40:55.773673
+2645,New York,Los Angeles,In Transit,2024-08-16 11:40:55.773677
+2646,Houston,Houston,In Transit,2024-08-16 16:40:55.773681
+2647,Houston,Houston,Delivered,2024-08-16 07:40:55.773685
+2648,Chicago,Phoenix,In Transit,2024-08-16 07:40:55.773690
+2649,New York,Phoenix,In Transit,2024-08-16 16:40:55.773694
+2650,Los Angeles,Chicago,Delivered,2024-08-16 11:40:55.773698
+2651,Los Angeles,Los Angeles,Delivered,2024-08-16 16:40:55.773702
+2652,Houston,Chicago,In Transit,2024-08-16 06:40:55.773706
+2653,Chicago,Phoenix,Delivered,2024-08-16 14:40:55.773711
+2654,Chicago,New York,In Transit,2024-08-16 19:40:55.773715
+2655,Los Angeles,Los Angeles,Delayed,2024-08-16 16:40:55.773719
+2656,Chicago,Houston,Delayed,2024-08-16 16:40:55.773723
+2657,Houston,New York,In Transit,2024-08-16 19:40:55.773728
+2658,Houston,New York,In Transit,2024-08-16 11:40:55.773732
+2659,Chicago,Houston,In Transit,2024-08-16 07:40:55.773736
+2660,Houston,Chicago,Delivered,2024-08-16 03:40:55.773740
+2661,Houston,Los Angeles,In Transit,2024-08-16 21:40:55.773744
+2662,Chicago,New York,Delivered,2024-08-16 02:40:55.773748
+2663,Houston,Chicago,Delivered,2024-08-16 17:40:55.773753
+2664,New York,Houston,In Transit,2024-08-16 20:40:55.773757
+2665,Houston,Chicago,Delayed,2024-08-16 13:40:55.773761
+2666,Phoenix,New York,In Transit,2024-08-16 09:40:55.773765
+2667,Los Angeles,Los Angeles,Delayed,2024-08-16 11:40:55.773769
+2668,New York,Los Angeles,Delivered,2024-08-16 22:40:55.773773
+2669,Chicago,Houston,Delayed,2024-08-16 15:40:55.773778
+2670,Los Angeles,Chicago,In Transit,2024-08-16 03:40:55.773782
+2671,Phoenix,Phoenix,Delayed,2024-08-16 20:40:55.773786
+2672,Los Angeles,Los Angeles,Delayed,2024-08-16 21:40:55.773790
+2673,Houston,Phoenix,In Transit,2024-08-17 00:40:55.773794
+2674,Los Angeles,Chicago,Delayed,2024-08-16 23:40:55.773799
+2675,Chicago,Chicago,In Transit,2024-08-17 00:40:55.773803
+2676,Houston,Phoenix,In Transit,2024-08-16 17:40:55.773807
+2677,Houston,Houston,Delayed,2024-08-16 03:40:55.773811
+2678,Phoenix,Phoenix,Delayed,2024-08-16 18:40:55.773816
+2679,Los Angeles,New York,Delayed,2024-08-16 02:40:55.773820
+2680,Phoenix,Phoenix,Delayed,2024-08-16 13:40:55.773824
+2681,Houston,Phoenix,Delayed,2024-08-16 03:40:55.773828
+2682,Houston,Houston,In Transit,2024-08-16 12:40:55.773832
+2683,Phoenix,New York,Delayed,2024-08-16 15:40:55.773837
+2684,Houston,Chicago,In Transit,2024-08-16 23:40:55.773841
+2685,Los Angeles,New York,Delayed,2024-08-16 12:40:55.773845
+2686,New York,Phoenix,Delayed,2024-08-16 09:40:55.773849
+2687,Phoenix,Chicago,Delayed,2024-08-16 09:40:55.773853
+2688,Chicago,Houston,Delayed,2024-08-16 02:40:55.773857
+2689,New York,Chicago,Delivered,2024-08-16 06:40:55.773862
+2690,Chicago,Houston,Delivered,2024-08-16 06:40:55.773866
+2691,Houston,Phoenix,Delayed,2024-08-16 05:40:55.773870
+2692,New York,New York,Delivered,2024-08-16 10:40:55.773874
+2693,Houston,New York,Delivered,2024-08-16 15:40:55.773878
+2694,Houston,New York,In Transit,2024-08-16 06:40:55.773883
+2695,Phoenix,New York,Delivered,2024-08-16 20:40:55.773887
+2696,Chicago,New York,In Transit,2024-08-16 16:40:55.773891
+2697,Los Angeles,Los Angeles,Delayed,2024-08-16 04:40:55.773895
+2698,Phoenix,Phoenix,Delayed,2024-08-16 20:40:55.773899
+2699,Phoenix,New York,Delayed,2024-08-16 22:40:55.773903
+2700,Chicago,New York,Delivered,2024-08-16 14:40:55.773908
+2701,Phoenix,Houston,Delayed,2024-08-16 19:40:55.773912
+2702,Chicago,Phoenix,In Transit,2024-08-16 04:40:55.773916
+2703,Phoenix,Houston,Delivered,2024-08-16 22:40:55.773920
+2704,New York,New York,Delivered,2024-08-16 06:40:55.773926
+2705,Chicago,Phoenix,In Transit,2024-08-16 12:40:55.773930
+2706,Los Angeles,Phoenix,Delivered,2024-08-16 04:40:55.773934
+2707,Phoenix,Phoenix,Delivered,2024-08-16 09:40:55.773939
+2708,New York,Chicago,In Transit,2024-08-16 12:40:55.773943
+2709,Los Angeles,Los Angeles,Delayed,2024-08-16 21:40:55.773947
+2710,Phoenix,Los Angeles,Delivered,2024-08-16 04:40:55.773951
+2711,Phoenix,New York,In Transit,2024-08-16 03:40:55.773955
+2712,Houston,Los Angeles,Delivered,2024-08-16 02:40:55.773959
+2713,Phoenix,Phoenix,In Transit,2024-08-16 12:40:55.773964
+2714,Los Angeles,Chicago,Delivered,2024-08-16 06:40:55.773968
+2715,Los Angeles,Los Angeles,Delayed,2024-08-16 22:40:55.773972
+2716,New York,Los Angeles,In Transit,2024-08-16 07:40:55.773976
+2717,Houston,Chicago,Delayed,2024-08-16 13:40:55.773980
+2718,New York,Houston,In Transit,2024-08-16 06:40:55.773985
+2719,New York,New York,Delivered,2024-08-16 16:40:55.773989
+2720,Phoenix,Phoenix,Delivered,2024-08-16 05:40:55.773993
+2721,New York,Chicago,Delivered,2024-08-16 15:40:55.773997
+2722,Chicago,Houston,Delivered,2024-08-16 15:40:55.774001
+2723,Houston,New York,In Transit,2024-08-16 13:40:55.774006
+2724,Phoenix,Houston,In Transit,2024-08-16 04:40:55.774010
+2725,Chicago,New York,Delivered,2024-08-16 03:40:55.774014
+2726,Los Angeles,Los Angeles,Delayed,2024-08-16 07:40:55.774018
+2727,Houston,Chicago,Delivered,2024-08-16 21:40:55.774023
+2728,Los Angeles,New York,Delayed,2024-08-16 15:40:55.774027
+2729,Los Angeles,Chicago,In Transit,2024-08-16 07:40:55.774031
+2730,Phoenix,Chicago,In Transit,2024-08-16 17:40:55.774035
+2731,Chicago,Houston,Delivered,2024-08-16 12:40:55.774039
+2732,Houston,Phoenix,Delivered,2024-08-16 05:40:55.774043
+2733,Phoenix,Houston,Delivered,2024-08-16 23:40:55.774047
+2734,New York,Houston,In Transit,2024-08-16 14:40:55.774052
+2735,Houston,Phoenix,Delivered,2024-08-16 10:40:55.774056
+2736,Phoenix,Phoenix,Delivered,2024-08-16 05:40:55.774060
+2737,Houston,Houston,Delayed,2024-08-16 12:40:55.774064
+2738,Houston,Chicago,In Transit,2024-08-16 16:40:55.774069
+2739,Phoenix,Los Angeles,Delivered,2024-08-16 07:40:55.774073
+2740,Los Angeles,Phoenix,Delayed,2024-08-16 15:40:55.774077
+2741,Los Angeles,Los Angeles,Delayed,2024-08-16 07:40:55.774081
+2742,Phoenix,Chicago,Delivered,2024-08-16 06:40:55.774085
+2743,Houston,Phoenix,In Transit,2024-08-16 05:40:55.774090
+2744,Los Angeles,New York,Delayed,2024-08-16 13:40:55.774094
+2745,Chicago,New York,In Transit,2024-08-16 10:40:55.774098
+2746,New York,Houston,Delayed,2024-08-16 02:40:55.774102
+2747,New York,Los Angeles,Delayed,2024-08-16 13:40:55.774107
+2748,Chicago,New York,In Transit,2024-08-16 06:40:55.774111
+2749,Chicago,Houston,Delayed,2024-08-16 04:40:55.774115
+2750,Chicago,Houston,Delivered,2024-08-16 23:40:55.774119
+2751,Houston,Houston,Delivered,2024-08-16 11:40:55.774123
+2752,Los Angeles,Chicago,Delayed,2024-08-16 20:40:55.774127
+2753,Chicago,Los Angeles,Delivered,2024-08-16 23:40:55.774132
+2754,Phoenix,Phoenix,In Transit,2024-08-16 16:40:55.774136
+2755,New York,Houston,In Transit,2024-08-16 19:40:55.774141
+2756,New York,Phoenix,Delivered,2024-08-16 10:40:55.774145
+2757,Chicago,New York,Delivered,2024-08-16 21:40:55.774149
+2758,Los Angeles,Chicago,Delivered,2024-08-17 00:40:55.774153
+2759,Chicago,Phoenix,In Transit,2024-08-16 20:40:55.774157
+2760,Phoenix,Houston,Delayed,2024-08-16 23:40:55.774161
+2761,Chicago,Chicago,Delivered,2024-08-16 10:40:55.774166
+2762,Houston,Houston,Delivered,2024-08-16 15:40:55.774170
+2763,Chicago,Chicago,In Transit,2024-08-16 20:40:55.774174
+2764,Houston,Phoenix,Delayed,2024-08-16 23:40:55.774178
+2765,Los Angeles,Phoenix,In Transit,2024-08-16 18:40:55.774182
+2766,Los Angeles,New York,Delivered,2024-08-16 09:40:55.774186
+2767,Phoenix,Los Angeles,In Transit,2024-08-16 13:40:55.774191
+2768,Los Angeles,Houston,Delayed,2024-08-16 02:40:55.774195
+2769,Houston,Houston,In Transit,2024-08-16 10:40:55.774199
+2770,Los Angeles,New York,In Transit,2024-08-16 14:40:55.774203
+2771,Houston,Chicago,Delayed,2024-08-16 16:40:55.774207
+2772,Phoenix,Chicago,Delivered,2024-08-16 20:40:55.774212
+2773,Houston,Phoenix,In Transit,2024-08-16 15:40:55.774216
+2774,Chicago,Phoenix,In Transit,2024-08-16 22:40:55.774220
+2775,Los Angeles,Houston,Delayed,2024-08-16 03:40:55.774224
+2776,New York,Los Angeles,Delivered,2024-08-16 18:40:55.774228
+2777,Chicago,Houston,Delayed,2024-08-16 19:40:55.774233
+2778,Houston,Chicago,Delivered,2024-08-16 11:40:55.774237
+2779,Chicago,Los Angeles,Delivered,2024-08-16 11:40:55.774241
+2780,Chicago,Los Angeles,In Transit,2024-08-16 16:40:55.774245
+2781,Chicago,New York,Delivered,2024-08-16 17:40:55.774249
+2782,Chicago,Phoenix,Delivered,2024-08-16 13:40:55.774253
+2783,Houston,Los Angeles,In Transit,2024-08-16 06:40:55.774258
+2784,Los Angeles,Houston,In Transit,2024-08-16 03:40:55.774262
+2785,Los Angeles,Chicago,Delivered,2024-08-16 15:40:55.774266
+2786,Chicago,Phoenix,Delivered,2024-08-16 11:40:55.774270
+2787,New York,Houston,Delivered,2024-08-16 20:40:55.774274
+2788,Los Angeles,Chicago,Delayed,2024-08-16 19:40:55.774280
+2789,Houston,Houston,In Transit,2024-08-16 17:40:55.774285
+2790,Houston,Houston,Delivered,2024-08-16 08:40:55.774289
+2791,Los Angeles,Phoenix,Delivered,2024-08-16 04:40:55.774294
+2792,Houston,Chicago,In Transit,2024-08-16 23:40:55.774298
+2793,Houston,Houston,Delivered,2024-08-16 05:40:55.774302
+2794,Phoenix,Los Angeles,Delivered,2024-08-16 19:40:55.774307
+2795,Houston,Phoenix,Delivered,2024-08-16 09:40:55.774311
+2796,Los Angeles,New York,Delivered,2024-08-16 19:40:55.774315
+2797,Los Angeles,Los Angeles,Delayed,2024-08-16 11:40:55.774319
+2798,New York,Chicago,Delivered,2024-08-16 18:40:55.774323
+2799,Chicago,Los Angeles,Delivered,2024-08-16 04:40:55.774328
+2800,Los Angeles,Houston,In Transit,2024-08-16 18:40:55.774332
+2801,Houston,New York,Delayed,2024-08-16 02:40:55.774336
+2802,New York,Phoenix,In Transit,2024-08-16 19:40:55.774340
+2803,Phoenix,New York,Delivered,2024-08-16 17:40:55.774344
+2804,New York,Los Angeles,In Transit,2024-08-16 07:40:55.774348
+2805,Houston,New York,Delayed,2024-08-16 22:40:55.774353
+2806,Los Angeles,Chicago,Delivered,2024-08-16 15:40:55.774357
+2807,New York,Houston,Delivered,2024-08-16 07:40:55.774361
+2808,Houston,Houston,Delivered,2024-08-16 22:40:55.774365
+2809,Phoenix,Chicago,Delivered,2024-08-16 13:40:55.774369
+2810,New York,Houston,Delayed,2024-08-16 04:40:55.774373
+2811,Houston,Phoenix,Delivered,2024-08-16 07:40:55.774378
+2812,Chicago,Houston,In Transit,2024-08-16 22:40:55.774382
+2813,Los Angeles,Houston,Delivered,2024-08-17 00:40:55.774386
+2814,Houston,Los Angeles,In Transit,2024-08-16 22:40:55.774390
+2815,Chicago,New York,Delivered,2024-08-16 03:40:55.774394
+2816,Los Angeles,Houston,Delivered,2024-08-16 11:40:55.774399
+2817,Los Angeles,Los Angeles,Delayed,2024-08-17 00:40:55.774403
+2818,Los Angeles,Chicago,Delayed,2024-08-17 00:40:55.774407
+2819,Chicago,Phoenix,Delayed,2024-08-16 09:40:55.774411
+2820,New York,Chicago,In Transit,2024-08-16 08:40:55.774416
+2821,Chicago,Phoenix,In Transit,2024-08-16 18:40:55.774420
+2822,Chicago,Los Angeles,In Transit,2024-08-16 22:40:55.774424
+2823,Houston,Chicago,Delivered,2024-08-16 21:40:55.774428
+2824,Houston,Los Angeles,Delivered,2024-08-16 15:40:55.774432
+2825,Phoenix,Phoenix,Delivered,2024-08-16 16:40:55.774436
+2826,Chicago,Houston,Delivered,2024-08-16 11:40:55.774441
+2827,Chicago,Los Angeles,Delayed,2024-08-16 11:40:55.774445
+2828,Phoenix,New York,Delivered,2024-08-16 17:40:55.774449
+2829,Chicago,Houston,In Transit,2024-08-16 17:40:55.774453
+2830,Chicago,Houston,In Transit,2024-08-16 20:40:55.774457
+2831,Phoenix,New York,Delivered,2024-08-16 16:40:55.774462
+2832,Phoenix,Chicago,Delayed,2024-08-16 16:40:55.774466
+2833,Phoenix,New York,Delayed,2024-08-16 08:40:55.774470
+2834,Los Angeles,Houston,Delayed,2024-08-16 18:40:55.774474
+2835,Houston,Chicago,Delayed,2024-08-16 20:40:55.774478
+2836,Phoenix,Chicago,Delivered,2024-08-16 08:40:55.774483
+2837,Los Angeles,Phoenix,Delayed,2024-08-16 03:40:55.774487
+2838,Houston,New York,Delayed,2024-08-16 19:40:55.774491
+2839,Phoenix,Houston,Delivered,2024-08-16 02:40:55.774495
+2840,Chicago,Los Angeles,In Transit,2024-08-16 19:40:55.774499
+2841,Chicago,Phoenix,Delivered,2024-08-16 22:40:55.774504
+2842,Houston,Los Angeles,In Transit,2024-08-16 03:40:55.774508
+2843,New York,Chicago,Delivered,2024-08-16 13:40:55.774512
+2844,Houston,Houston,Delayed,2024-08-16 02:40:55.774516
+2845,Los Angeles,Houston,Delayed,2024-08-16 12:40:55.774521
+2846,Chicago,New York,Delayed,2024-08-16 05:40:55.774525
+2847,Chicago,Houston,In Transit,2024-08-16 14:40:55.774529
+2848,Phoenix,Houston,In Transit,2024-08-16 06:40:55.774533
+2849,Los Angeles,New York,Delivered,2024-08-16 11:40:55.774537
+2850,New York,New York,In Transit,2024-08-16 19:40:55.774541
+2851,Los Angeles,Houston,Delivered,2024-08-16 16:40:55.774545
+2852,Los Angeles,Houston,Delivered,2024-08-16 22:40:55.774550
+2853,Los Angeles,Phoenix,In Transit,2024-08-16 12:40:55.774554
+2854,Los Angeles,Los Angeles,Delivered,2024-08-16 16:40:55.774558
+2855,New York,Phoenix,Delayed,2024-08-17 00:40:55.774562
+2856,Los Angeles,Phoenix,In Transit,2024-08-16 06:40:55.774566
+2857,New York,Chicago,Delayed,2024-08-16 20:40:55.774571
+2858,Houston,Houston,Delivered,2024-08-16 22:40:55.774575
+2859,Los Angeles,Phoenix,In Transit,2024-08-16 12:40:55.774579
+2860,Phoenix,Houston,Delayed,2024-08-16 20:40:55.774583
+2861,New York,Phoenix,Delivered,2024-08-16 13:40:55.774588
+2862,New York,Chicago,In Transit,2024-08-16 23:40:55.774593
+2863,Los Angeles,Houston,In Transit,2024-08-16 04:40:55.774597
+2864,Phoenix,Los Angeles,Delayed,2024-08-16 13:40:55.774601
+2865,Phoenix,Chicago,Delayed,2024-08-16 11:40:55.774605
+2866,Los Angeles,New York,Delivered,2024-08-17 00:40:55.774610
+2867,Phoenix,Los Angeles,Delivered,2024-08-16 23:40:55.774614
+2868,New York,Phoenix,In Transit,2024-08-16 13:40:55.774618
+2869,Los Angeles,Houston,In Transit,2024-08-16 10:40:55.774622
+2870,Los Angeles,Houston,Delivered,2024-08-16 14:40:55.774627
+2871,Los Angeles,Los Angeles,Delayed,2024-08-16 10:40:55.774631
+2872,Houston,New York,Delayed,2024-08-16 18:40:55.774637
+2873,Los Angeles,Houston,In Transit,2024-08-16 19:40:55.774641
+2874,Chicago,New York,In Transit,2024-08-16 17:40:55.774645
+2875,Chicago,New York,Delayed,2024-08-16 09:40:55.774649
+2876,New York,Chicago,Delivered,2024-08-16 12:40:55.774654
+2877,Houston,Los Angeles,In Transit,2024-08-16 23:40:55.774658
+2878,Houston,Los Angeles,In Transit,2024-08-16 20:40:55.774662
+2879,Phoenix,Los Angeles,In Transit,2024-08-16 10:40:55.774666
+2880,Los Angeles,Phoenix,In Transit,2024-08-16 10:40:55.774671
+2881,Chicago,Los Angeles,In Transit,2024-08-16 12:40:55.774675
+2882,Houston,Houston,In Transit,2024-08-16 09:40:55.774679
+2883,Chicago,Houston,Delayed,2024-08-16 05:40:55.774683
+2884,Chicago,Los Angeles,Delayed,2024-08-17 00:40:55.774687
+2885,Los Angeles,Houston,Delivered,2024-08-16 14:40:55.774692
+2886,Chicago,Chicago,Delayed,2024-08-16 18:40:55.774696
+2887,New York,Phoenix,Delayed,2024-08-16 23:40:55.774700
+2888,New York,Phoenix,Delivered,2024-08-16 02:40:55.774705
+2889,Houston,New York,In Transit,2024-08-16 11:40:55.774709
+2890,Houston,New York,Delayed,2024-08-16 19:40:55.774714
+2891,Phoenix,Phoenix,Delayed,2024-08-16 10:40:55.774718
+2892,Chicago,Los Angeles,Delivered,2024-08-16 21:40:55.774722
+2893,Houston,Los Angeles,Delivered,2024-08-17 00:40:55.774726
+2894,Los Angeles,Chicago,Delayed,2024-08-16 13:40:55.774730
+2895,Houston,Phoenix,In Transit,2024-08-16 11:40:55.774735
+2896,New York,Houston,In Transit,2024-08-16 22:40:55.774739
+2897,Chicago,Houston,Delivered,2024-08-16 02:40:55.774743
+2898,New York,New York,Delivered,2024-08-16 16:40:55.774747
+2899,Houston,Phoenix,In Transit,2024-08-16 21:40:55.774751
+2900,Houston,New York,Delayed,2024-08-16 21:40:55.774756
+2901,New York,Chicago,Delayed,2024-08-16 23:40:55.774760
+2902,Phoenix,New York,Delivered,2024-08-16 08:40:55.774764
+2903,Phoenix,Chicago,Delayed,2024-08-16 02:40:55.774768
+2904,Houston,Phoenix,In Transit,2024-08-16 07:40:55.774772
+2905,Phoenix,Chicago,Delayed,2024-08-16 17:40:55.774776
+2906,New York,New York,Delivered,2024-08-16 22:40:55.774781
+2907,Chicago,Phoenix,Delivered,2024-08-16 17:40:55.774785
+2908,Houston,New York,Delivered,2024-08-16 11:40:55.774789
+2909,Los Angeles,Houston,Delayed,2024-08-16 18:40:55.774793
+2910,Phoenix,Los Angeles,In Transit,2024-08-16 20:40:55.774797
+2911,Phoenix,Chicago,Delayed,2024-08-16 12:40:55.774801
+2912,Los Angeles,Chicago,Delayed,2024-08-16 22:40:55.774805
+2913,Los Angeles,Los Angeles,Delivered,2024-08-16 23:40:55.774810
+2914,New York,Chicago,Delayed,2024-08-16 03:40:55.774814
+2915,New York,Chicago,Delayed,2024-08-16 02:40:55.774818
+2916,Phoenix,Houston,Delivered,2024-08-16 09:40:55.774822
+2917,Chicago,Phoenix,Delivered,2024-08-16 08:40:55.774826
+2918,New York,Chicago,In Transit,2024-08-16 05:40:55.774831
+2919,New York,Houston,Delayed,2024-08-16 03:40:55.774835
+2920,Houston,Chicago,In Transit,2024-08-16 20:40:55.774839
+2921,Houston,Phoenix,Delivered,2024-08-17 00:40:55.774843
+2922,New York,Houston,Delayed,2024-08-16 02:40:55.774847
+2923,Chicago,Chicago,In Transit,2024-08-16 23:40:55.774851
+2924,Phoenix,Houston,Delayed,2024-08-16 22:40:55.774856
+2925,Los Angeles,Los Angeles,Delayed,2024-08-16 02:40:55.774860
+2926,New York,Chicago,Delivered,2024-08-16 23:40:55.774864
+2927,Chicago,New York,Delayed,2024-08-16 10:40:55.774868
+2928,Chicago,Phoenix,In Transit,2024-08-16 16:40:55.774872
+2929,Chicago,Chicago,Delivered,2024-08-16 08:40:55.774877
+2930,New York,Chicago,Delayed,2024-08-16 20:40:55.774881
+2931,New York,New York,In Transit,2024-08-16 04:40:55.774885
+2932,Chicago,Houston,Delayed,2024-08-16 05:40:55.774889
+2933,Chicago,Phoenix,Delayed,2024-08-17 00:40:55.774893
+2934,New York,New York,In Transit,2024-08-16 20:40:55.774897
+2935,Phoenix,Phoenix,In Transit,2024-08-16 16:40:55.774902
+2936,New York,Chicago,Delivered,2024-08-16 20:40:55.774906
+2937,Houston,Phoenix,Delivered,2024-08-16 09:40:55.774910
+2938,Chicago,Houston,Delayed,2024-08-16 08:40:55.774914
+2939,Phoenix,Los Angeles,Delivered,2024-08-16 02:40:55.774918
+2940,Los Angeles,Phoenix,Delayed,2024-08-16 10:40:55.774923
+2941,New York,Los Angeles,Delivered,2024-08-16 18:40:55.774927
+2942,Chicago,Houston,Delayed,2024-08-16 13:40:55.774931
+2943,New York,New York,Delivered,2024-08-16 18:40:55.774935
+2944,Los Angeles,Phoenix,Delivered,2024-08-16 11:40:55.774940
+2945,New York,Phoenix,Delayed,2024-08-16 11:40:55.774944
+2946,Phoenix,Phoenix,In Transit,2024-08-16 06:40:55.774948
+2947,Los Angeles,Phoenix,Delivered,2024-08-16 09:40:55.774952
+2948,Houston,Los Angeles,Delayed,2024-08-16 09:40:55.774956
+2949,Houston,Houston,Delayed,2024-08-16 09:40:55.774961
+2950,Chicago,Los Angeles,Delayed,2024-08-16 02:40:55.774965
+2951,Houston,Chicago,In Transit,2024-08-16 16:40:55.774969
+2952,New York,Chicago,In Transit,2024-08-16 16:40:55.774973
+2953,Phoenix,New York,Delivered,2024-08-16 05:40:55.774977
+2954,Houston,New York,Delayed,2024-08-16 14:40:55.774982
+2955,Chicago,Phoenix,In Transit,2024-08-16 20:40:55.774986
+2956,New York,Chicago,In Transit,2024-08-16 12:40:55.774991
+2957,Chicago,Los Angeles,In Transit,2024-08-16 06:40:55.774996
+2958,Chicago,Houston,In Transit,2024-08-16 16:40:55.775000
+2959,Phoenix,Chicago,Delayed,2024-08-16 07:40:55.775004
+2960,Phoenix,Chicago,Delivered,2024-08-16 17:40:55.775008
+2961,Chicago,Los Angeles,In Transit,2024-08-16 23:40:55.775013
+2962,Chicago,Chicago,Delivered,2024-08-16 20:40:55.775017
+2963,Houston,Los Angeles,In Transit,2024-08-16 15:40:55.775021
+2964,Houston,Los Angeles,In Transit,2024-08-16 22:40:55.775025
+2965,Los Angeles,Los Angeles,Delivered,2024-08-16 10:40:55.775029
+2966,Phoenix,Los Angeles,Delivered,2024-08-16 18:40:55.775034
+2967,Houston,Chicago,Delayed,2024-08-16 18:40:55.775038
+2968,Chicago,Chicago,Delayed,2024-08-16 19:40:55.775042
+2969,Houston,Houston,Delayed,2024-08-16 14:40:55.775046
+2970,Los Angeles,New York,Delayed,2024-08-16 22:40:55.775050
+2971,Houston,Houston,Delivered,2024-08-16 11:40:55.775054
+2972,Chicago,Los Angeles,Delivered,2024-08-16 12:40:55.775059
+2973,Houston,Phoenix,In Transit,2024-08-16 16:40:55.775063
+2974,Houston,Houston,Delivered,2024-08-16 03:40:55.775067
+2975,Phoenix,Phoenix,In Transit,2024-08-16 21:40:55.775072
+2976,Phoenix,Phoenix,Delayed,2024-08-16 10:40:55.775076
+2977,Los Angeles,Chicago,In Transit,2024-08-16 10:40:55.775080
+2978,Los Angeles,Los Angeles,Delayed,2024-08-16 05:40:55.775084
+2979,Houston,New York,In Transit,2024-08-16 07:40:55.775088
+2980,Phoenix,New York,Delayed,2024-08-16 14:40:55.775092
+2981,Phoenix,New York,Delivered,2024-08-16 04:40:55.775097
+2982,Houston,New York,Delayed,2024-08-16 14:40:55.775101
+2983,Phoenix,New York,Delayed,2024-08-16 21:40:55.775105
+2984,New York,Phoenix,In Transit,2024-08-16 17:40:55.775109
+2985,Chicago,Phoenix,Delivered,2024-08-16 10:40:55.775113
+2986,New York,Phoenix,In Transit,2024-08-16 18:40:55.775117
+2987,New York,Los Angeles,Delivered,2024-08-16 07:40:55.775121
+2988,New York,Houston,Delivered,2024-08-16 10:40:55.775126
+2989,Phoenix,Chicago,Delayed,2024-08-16 02:40:55.775130
+2990,Houston,Phoenix,Delayed,2024-08-16 13:40:55.775134
+2991,Los Angeles,Los Angeles,Delayed,2024-08-16 18:40:55.775138
+2992,Chicago,Los Angeles,In Transit,2024-08-16 18:40:55.775142
+2993,Chicago,Chicago,In Transit,2024-08-16 23:40:55.775146
+2994,New York,New York,Delivered,2024-08-16 07:40:55.775151
+2995,Los Angeles,Los Angeles,In Transit,2024-08-16 12:40:55.775155
+2996,Houston,Houston,Delayed,2024-08-16 16:40:55.775159
+2997,Los Angeles,Houston,In Transit,2024-08-16 13:40:55.775163
+2998,Los Angeles,Houston,In Transit,2024-08-16 14:40:55.775167
+2999,Chicago,Los Angeles,Delivered,2024-08-16 09:40:55.775172
+3000,Phoenix,Los Angeles,Delayed,2024-08-16 09:40:55.775176
+3001,New York,Los Angeles,In Transit,2024-08-16 10:40:55.775180
+3002,Phoenix,Los Angeles,In Transit,2024-08-16 18:40:55.775184
+3003,Chicago,Houston,Delivered,2024-08-16 09:40:55.775188
+3004,Los Angeles,Chicago,Delivered,2024-08-16 17:40:55.775192
+3005,New York,Chicago,Delivered,2024-08-16 04:40:55.775196
+3006,Houston,Los Angeles,Delayed,2024-08-16 22:40:55.775201
+3007,Houston,Houston,Delivered,2024-08-16 19:40:55.775205
+3008,Los Angeles,Chicago,In Transit,2024-08-16 12:40:55.775209
+3009,Phoenix,Houston,In Transit,2024-08-16 08:40:55.775213
+3010,Phoenix,Los Angeles,Delayed,2024-08-16 09:40:55.775217
+3011,New York,Los Angeles,Delivered,2024-08-16 11:40:55.775221
+3012,Chicago,Phoenix,Delayed,2024-08-16 12:40:55.775226
+3013,Phoenix,Los Angeles,Delayed,2024-08-16 17:40:55.775230
+3014,Houston,Houston,Delayed,2024-08-16 17:40:55.775234
+3015,Houston,Los Angeles,Delayed,2024-08-16 20:40:55.775238
+3016,Houston,New York,Delivered,2024-08-16 15:40:55.775242
+3017,Phoenix,Phoenix,Delayed,2024-08-17 00:40:55.775246
+3018,Los Angeles,Los Angeles,Delayed,2024-08-16 21:40:55.775251
+3019,Phoenix,Los Angeles,Delayed,2024-08-16 12:40:55.775255
+3020,Phoenix,Phoenix,In Transit,2024-08-16 15:40:55.775259
+3021,New York,New York,Delivered,2024-08-16 05:40:55.775263
+3022,Chicago,Phoenix,Delayed,2024-08-16 11:40:55.775267
+3023,Phoenix,Houston,In Transit,2024-08-16 16:40:55.775272
+3024,Phoenix,Houston,Delivered,2024-08-17 00:40:55.775276
+3025,Chicago,New York,Delayed,2024-08-16 15:40:55.775280
+3026,Houston,Los Angeles,Delivered,2024-08-16 15:40:55.775284
+3027,Chicago,Phoenix,Delivered,2024-08-16 11:40:55.775288
+3028,Phoenix,Chicago,Delivered,2024-08-16 19:40:55.775292
+3029,Los Angeles,New York,Delayed,2024-08-16 07:40:55.775297
+3030,New York,Phoenix,Delayed,2024-08-16 06:40:55.775301
+3031,New York,Phoenix,Delivered,2024-08-16 21:40:55.775305
+3032,Chicago,New York,In Transit,2024-08-16 06:40:55.775309
+3033,Chicago,Chicago,Delivered,2024-08-16 19:40:55.775313
+3034,Houston,Houston,Delayed,2024-08-16 11:40:55.775318
+3035,New York,Houston,Delayed,2024-08-16 18:40:55.775322
+3036,Chicago,Los Angeles,Delayed,2024-08-16 19:40:55.775326
+3037,Phoenix,Los Angeles,Delayed,2024-08-16 02:40:55.775330
+3038,Phoenix,Houston,Delivered,2024-08-16 18:40:55.775334
+3039,Los Angeles,Chicago,In Transit,2024-08-16 23:40:55.775338
+3040,Los Angeles,New York,Delivered,2024-08-16 11:40:55.775344
+3041,Chicago,Phoenix,Delayed,2024-08-16 06:40:55.775348
+3042,Houston,Los Angeles,Delivered,2024-08-16 07:40:55.775352
+3043,Houston,Houston,In Transit,2024-08-16 20:40:55.775356
+3044,Houston,Phoenix,In Transit,2024-08-16 18:40:55.775361
+3045,Houston,New York,Delivered,2024-08-16 08:40:55.775365
+3046,New York,New York,In Transit,2024-08-16 22:40:55.775369
+3047,Houston,Los Angeles,Delivered,2024-08-16 16:40:55.775373
+3048,Los Angeles,Los Angeles,Delivered,2024-08-16 22:40:55.775377
+3049,Los Angeles,Chicago,In Transit,2024-08-16 04:40:55.775382
+3050,New York,New York,Delayed,2024-08-16 10:40:55.775386
+3051,Chicago,Houston,Delivered,2024-08-16 16:40:55.775390
+3052,Phoenix,New York,In Transit,2024-08-16 08:40:55.775394
+3053,Los Angeles,New York,Delivered,2024-08-17 00:40:55.775398
+3054,Los Angeles,Chicago,In Transit,2024-08-17 00:40:55.775402
+3055,New York,New York,In Transit,2024-08-16 17:40:55.775406
+3056,Los Angeles,Houston,Delivered,2024-08-16 02:40:55.775411
+3057,Phoenix,Chicago,Delivered,2024-08-16 15:40:55.775415
+3058,New York,New York,Delivered,2024-08-16 23:40:55.775419
+3059,Houston,Los Angeles,Delayed,2024-08-16 14:40:55.775423
+3060,Houston,Phoenix,Delayed,2024-08-16 12:40:55.775427
+3061,Houston,New York,Delivered,2024-08-16 12:40:55.775431
+3062,Phoenix,Houston,In Transit,2024-08-16 13:40:55.775435
+3063,Chicago,Houston,Delivered,2024-08-16 11:40:55.775440
+3064,Los Angeles,Los Angeles,In Transit,2024-08-16 14:40:55.775444
+3065,Phoenix,New York,In Transit,2024-08-16 10:40:55.775448
+3066,Chicago,New York,Delivered,2024-08-16 18:40:55.775452
+3067,New York,New York,Delivered,2024-08-16 09:40:55.775457
+3068,Phoenix,Houston,Delivered,2024-08-16 12:40:55.775461
+3069,New York,Chicago,Delivered,2024-08-16 16:40:55.775465
+3070,Chicago,Chicago,Delayed,2024-08-16 22:40:55.775469
+3071,Phoenix,Los Angeles,Delivered,2024-08-16 02:40:55.775473
+3072,Los Angeles,Houston,Delivered,2024-08-16 02:40:55.775478
+3073,Chicago,Phoenix,In Transit,2024-08-16 13:40:55.775482
+3074,Los Angeles,Los Angeles,Delayed,2024-08-16 07:40:55.775486
+3075,New York,Chicago,In Transit,2024-08-16 02:40:55.775490
+3076,Los Angeles,Phoenix,In Transit,2024-08-16 14:40:55.775494
+3077,Phoenix,Los Angeles,In Transit,2024-08-16 04:40:55.775499
+3078,Phoenix,Los Angeles,Delivered,2024-08-16 20:40:55.775503
+3079,Houston,Houston,Delayed,2024-08-16 02:40:55.775507
+3080,Los Angeles,New York,In Transit,2024-08-16 08:40:55.775511
+3081,Houston,Chicago,In Transit,2024-08-16 13:40:55.775515
+3082,Chicago,Chicago,Delayed,2024-08-17 00:40:55.775520
+3083,New York,New York,In Transit,2024-08-16 20:40:55.775524
+3084,Chicago,Phoenix,Delivered,2024-08-16 03:40:55.775528
+3085,New York,Phoenix,In Transit,2024-08-16 11:40:55.775532
+3086,Los Angeles,Phoenix,Delivered,2024-08-16 07:40:55.775537
+3087,Phoenix,New York,Delayed,2024-08-16 06:40:55.775541
+3088,Los Angeles,Houston,Delivered,2024-08-16 05:40:55.775545
+3089,New York,Houston,Delayed,2024-08-16 15:40:55.775549
+3090,Houston,Los Angeles,Delayed,2024-08-16 13:40:55.775553
+3091,New York,Chicago,Delivered,2024-08-16 14:40:55.775557
+3092,Houston,New York,In Transit,2024-08-16 11:40:55.775562
+3093,Chicago,Houston,In Transit,2024-08-16 13:40:55.775566
+3094,Phoenix,Chicago,In Transit,2024-08-16 15:40:55.775570
+3095,Chicago,Phoenix,In Transit,2024-08-16 07:40:55.775574
+3096,Los Angeles,New York,In Transit,2024-08-16 07:40:55.775578
+3097,Houston,Chicago,Delivered,2024-08-16 22:40:55.775582
+3098,Houston,Houston,Delayed,2024-08-16 22:40:55.775587
+3099,Chicago,Phoenix,In Transit,2024-08-16 21:40:55.775591
+3100,Phoenix,Los Angeles,Delayed,2024-08-16 11:40:55.775595
+3101,Phoenix,Los Angeles,In Transit,2024-08-16 07:40:55.775599
+3102,Chicago,Los Angeles,In Transit,2024-08-16 07:40:55.775604
+3103,Phoenix,Houston,In Transit,2024-08-16 15:40:55.775608
+3104,Los Angeles,New York,Delivered,2024-08-16 05:40:55.775612
+3105,New York,Chicago,Delayed,2024-08-16 21:40:55.775616
+3106,Houston,Houston,Delivered,2024-08-16 16:40:55.775620
+3107,Houston,Chicago,Delayed,2024-08-16 21:40:55.775624
+3108,Houston,Houston,In Transit,2024-08-17 00:40:55.775629
+3109,New York,Phoenix,In Transit,2024-08-16 04:40:55.775633
+3110,Los Angeles,Houston,In Transit,2024-08-16 12:40:55.775637
+3111,Chicago,Los Angeles,Delivered,2024-08-17 00:40:55.775641
+3112,Phoenix,New York,Delayed,2024-08-16 09:40:55.775645
+3113,Phoenix,Chicago,Delayed,2024-08-16 06:40:55.775650
+3114,New York,Phoenix,Delayed,2024-08-16 08:40:55.775654
+3115,Houston,Los Angeles,Delivered,2024-08-16 06:40:55.775658
+3116,Phoenix,Phoenix,Delayed,2024-08-16 10:40:55.775662
+3117,Chicago,Chicago,Delayed,2024-08-16 02:40:55.775666
+3118,Phoenix,Houston,Delivered,2024-08-16 17:40:55.775670
+3119,Houston,New York,Delivered,2024-08-16 20:40:55.775675
+3120,Chicago,Los Angeles,Delayed,2024-08-17 00:40:55.775679
+3121,Houston,New York,Delayed,2024-08-16 05:40:55.775683
+3122,Houston,Chicago,Delivered,2024-08-16 17:40:55.775687
+3123,New York,Phoenix,Delivered,2024-08-17 00:40:55.775691
+3124,Houston,New York,Delivered,2024-08-16 16:40:55.775698
+3125,Chicago,Phoenix,Delivered,2024-08-16 12:40:55.775702
+3126,New York,New York,Delivered,2024-08-16 20:40:55.775706
+3127,New York,Chicago,Delivered,2024-08-16 06:40:55.775711
+3128,Chicago,Phoenix,In Transit,2024-08-16 20:40:55.775715
+3129,New York,New York,Delayed,2024-08-16 16:40:55.775719
+3130,Chicago,New York,Delayed,2024-08-16 23:40:55.775723
+3131,Phoenix,Chicago,Delayed,2024-08-16 02:40:55.775727
+3132,New York,Phoenix,Delivered,2024-08-16 07:40:55.775732
+3133,Phoenix,New York,In Transit,2024-08-16 06:40:55.775736
+3134,New York,Los Angeles,Delayed,2024-08-16 10:40:55.775740
+3135,Houston,Chicago,In Transit,2024-08-16 14:40:55.775744
+3136,Chicago,New York,In Transit,2024-08-16 14:40:55.775748
+3137,Houston,Chicago,Delivered,2024-08-16 07:40:55.775753
+3138,Phoenix,Houston,Delayed,2024-08-16 11:40:55.775757
+3139,Chicago,New York,In Transit,2024-08-16 03:40:55.775761
+3140,Chicago,Los Angeles,Delivered,2024-08-16 18:40:55.775765
+3141,Phoenix,Houston,Delayed,2024-08-16 17:40:55.775769
+3142,Chicago,Chicago,Delivered,2024-08-16 08:40:55.775774
+3143,Chicago,Phoenix,In Transit,2024-08-16 04:40:55.775778
+3144,New York,Phoenix,Delayed,2024-08-16 04:40:55.775782
+3145,Los Angeles,Chicago,Delayed,2024-08-17 00:40:55.775786
+3146,Houston,Phoenix,Delayed,2024-08-16 02:40:55.775791
+3147,Los Angeles,Phoenix,Delayed,2024-08-16 20:40:55.775795
+3148,Chicago,Los Angeles,Delayed,2024-08-16 14:40:55.775799
+3149,Los Angeles,Houston,Delivered,2024-08-16 17:40:55.775803
+3150,New York,New York,Delayed,2024-08-16 23:40:55.775807
+3151,Phoenix,Houston,Delivered,2024-08-16 12:40:55.775811
+3152,Phoenix,Chicago,Delayed,2024-08-16 19:40:55.775816
+3153,Los Angeles,Los Angeles,In Transit,2024-08-16 10:40:55.775820
+3154,New York,Chicago,Delivered,2024-08-16 18:40:55.775824
+3155,Phoenix,Houston,In Transit,2024-08-16 08:40:55.775828
+3156,Los Angeles,Los Angeles,Delivered,2024-08-16 11:40:55.775833
+3157,Los Angeles,Los Angeles,Delayed,2024-08-16 08:40:55.775837
+3158,Houston,Houston,Delayed,2024-08-16 07:40:55.775841
+3159,New York,New York,Delivered,2024-08-16 05:40:55.775845
+3160,Houston,Houston,Delayed,2024-08-16 21:40:55.775849
+3161,Los Angeles,Los Angeles,Delivered,2024-08-17 00:40:55.775853
+3162,Houston,Los Angeles,Delivered,2024-08-16 03:40:55.775858
+3163,Houston,New York,Delayed,2024-08-16 22:40:55.775862
+3164,Los Angeles,New York,Delayed,2024-08-17 00:40:55.775866
+3165,Phoenix,Chicago,Delayed,2024-08-16 04:40:55.775870
+3166,Chicago,Chicago,Delivered,2024-08-17 00:40:55.775875
+3167,Phoenix,Los Angeles,In Transit,2024-08-16 04:40:55.775879
+3168,New York,Chicago,Delivered,2024-08-16 20:40:55.775883
+3169,Phoenix,New York,Delivered,2024-08-16 05:40:55.775887
+3170,Los Angeles,Chicago,Delayed,2024-08-16 04:40:55.775891
+3171,Houston,Chicago,Delayed,2024-08-16 13:40:55.775895
+3172,New York,Los Angeles,Delayed,2024-08-16 13:40:55.775899
+3173,New York,Houston,In Transit,2024-08-16 03:40:55.775903
+3174,New York,Houston,In Transit,2024-08-16 02:40:55.775908
+3175,Houston,Phoenix,Delivered,2024-08-16 19:40:55.775912
+3176,Phoenix,Phoenix,Delivered,2024-08-16 06:40:55.775916
+3177,Houston,Los Angeles,Delivered,2024-08-16 03:40:55.775920
+3178,Chicago,Los Angeles,In Transit,2024-08-16 03:40:55.775924
+3179,New York,Houston,In Transit,2024-08-16 03:40:55.775928
+3180,Los Angeles,Los Angeles,Delivered,2024-08-16 22:40:55.775932
+3181,Houston,New York,Delivered,2024-08-16 14:40:55.775937
+3182,New York,Los Angeles,Delayed,2024-08-16 12:40:55.775941
+3183,Houston,Chicago,In Transit,2024-08-16 08:40:55.775945
+3184,Houston,Los Angeles,Delivered,2024-08-16 07:40:55.775949
+3185,Phoenix,Houston,Delivered,2024-08-16 23:40:55.775953
+3186,Houston,New York,In Transit,2024-08-16 07:40:55.775957
+3187,Los Angeles,Phoenix,Delayed,2024-08-16 10:40:55.775962
+3188,Chicago,New York,Delayed,2024-08-16 10:40:55.775966
+3189,Chicago,New York,In Transit,2024-08-16 07:40:55.775970
+3190,Houston,Chicago,Delivered,2024-08-16 16:40:55.775974
+3191,Houston,New York,In Transit,2024-08-16 19:40:55.775978
+3192,Houston,Los Angeles,Delivered,2024-08-16 20:40:55.775983
+3193,Chicago,Houston,In Transit,2024-08-16 02:40:55.775987
+3194,Houston,New York,Delayed,2024-08-16 08:40:55.775991
+3195,Phoenix,New York,Delivered,2024-08-16 23:40:55.775995
+3196,Houston,Los Angeles,Delivered,2024-08-16 17:40:55.775999
+3197,Los Angeles,New York,Delayed,2024-08-16 11:40:55.776003
+3198,Los Angeles,Phoenix,Delayed,2024-08-16 06:40:55.776008
+3199,Chicago,New York,Delayed,2024-08-16 17:40:55.776012
+3200,Los Angeles,New York,Delivered,2024-08-16 16:40:55.776016
+3201,Chicago,New York,Delayed,2024-08-17 00:40:55.776021
+3202,Los Angeles,Phoenix,Delayed,2024-08-16 04:40:55.776025
+3203,Chicago,Phoenix,Delivered,2024-08-16 19:40:55.776029
+3204,New York,Phoenix,Delayed,2024-08-16 14:40:55.776033
+3205,Los Angeles,Phoenix,In Transit,2024-08-16 17:40:55.776037
+3206,Houston,New York,In Transit,2024-08-16 20:40:55.776041
+3207,Chicago,Los Angeles,In Transit,2024-08-16 10:40:55.776046
+3208,Chicago,Houston,Delayed,2024-08-16 22:40:55.776051
+3209,Phoenix,Houston,Delivered,2024-08-17 00:40:55.776056
+3210,New York,New York,Delayed,2024-08-16 11:40:55.776060
+3211,New York,Chicago,In Transit,2024-08-16 17:40:55.776064
+3212,Houston,Houston,Delayed,2024-08-16 20:40:55.776068
+3213,Chicago,Phoenix,Delayed,2024-08-16 14:40:55.776072
+3214,New York,Chicago,Delivered,2024-08-16 15:40:55.776077
+3215,New York,Los Angeles,In Transit,2024-08-16 17:40:55.776081
+3216,Phoenix,Chicago,In Transit,2024-08-16 06:40:55.776085
+3217,Houston,Los Angeles,In Transit,2024-08-16 14:40:55.776089
+3218,Houston,Chicago,Delayed,2024-08-16 12:40:55.776093
+3219,New York,Houston,In Transit,2024-08-16 22:40:55.776097
+3220,Los Angeles,Phoenix,Delayed,2024-08-16 17:40:55.776102
+3221,Phoenix,Los Angeles,In Transit,2024-08-16 16:40:55.776106
+3222,Los Angeles,Los Angeles,Delivered,2024-08-16 23:40:55.776110
+3223,Phoenix,Chicago,In Transit,2024-08-16 17:40:55.776114
+3224,Los Angeles,Phoenix,In Transit,2024-08-16 07:40:55.776118
+3225,Houston,New York,Delivered,2024-08-16 16:40:55.776123
+3226,Chicago,Los Angeles,Delayed,2024-08-16 23:40:55.776127
+3227,Houston,Phoenix,In Transit,2024-08-16 15:40:55.776131
+3228,New York,New York,In Transit,2024-08-16 09:40:55.776135
+3229,Los Angeles,Los Angeles,Delivered,2024-08-16 05:40:55.776139
+3230,New York,Phoenix,Delivered,2024-08-16 03:40:55.776144
+3231,Houston,Los Angeles,Delayed,2024-08-16 17:40:55.776148
+3232,Los Angeles,Houston,Delivered,2024-08-16 18:40:55.776152
+3233,Phoenix,Phoenix,In Transit,2024-08-16 09:40:55.776156
+3234,Chicago,Chicago,In Transit,2024-08-16 18:40:55.776161
+3235,Houston,Chicago,Delayed,2024-08-16 08:40:55.776165
+3236,Houston,New York,Delivered,2024-08-16 09:40:55.776169
+3237,Chicago,Houston,Delayed,2024-08-16 03:40:55.776173
+3238,Houston,New York,Delivered,2024-08-16 08:40:55.776177
+3239,Los Angeles,Chicago,In Transit,2024-08-16 20:40:55.776182
+3240,Los Angeles,Phoenix,In Transit,2024-08-16 04:40:55.776186
+3241,Houston,Houston,Delayed,2024-08-16 07:40:55.776190
+3242,Los Angeles,Los Angeles,Delivered,2024-08-16 07:40:55.776194
+3243,Houston,Los Angeles,In Transit,2024-08-16 05:40:55.776198
+3244,Houston,Phoenix,In Transit,2024-08-16 10:40:55.776202
+3245,Phoenix,Chicago,Delivered,2024-08-16 19:40:55.776207
+3246,Chicago,New York,Delayed,2024-08-16 13:40:55.776211
+3247,Los Angeles,Chicago,Delayed,2024-08-17 00:40:55.776215
+3248,Chicago,Phoenix,Delayed,2024-08-16 06:40:55.776219
+3249,Phoenix,Chicago,Delayed,2024-08-16 20:40:55.776223
+3250,New York,New York,Delayed,2024-08-16 11:40:55.776228
+3251,Houston,New York,In Transit,2024-08-16 07:40:55.776232
+3252,Los Angeles,Houston,Delivered,2024-08-16 09:40:55.776236
+3253,New York,Houston,Delayed,2024-08-17 00:40:55.776255
+3254,New York,Houston,In Transit,2024-08-16 19:40:55.776260
+3255,Los Angeles,Chicago,Delayed,2024-08-16 10:40:55.776274
+3256,New York,Los Angeles,Delayed,2024-08-16 19:40:55.776279
+3257,Houston,Chicago,In Transit,2024-08-16 02:40:55.776283
+3258,Houston,New York,Delayed,2024-08-16 18:40:55.776287
+3259,Houston,Houston,Delivered,2024-08-16 05:40:55.776292
+3260,Phoenix,Phoenix,Delayed,2024-08-16 11:40:55.776296
+3261,New York,Los Angeles,In Transit,2024-08-16 15:40:55.776300
+3262,Houston,Chicago,Delivered,2024-08-16 11:40:55.776304
+3263,Phoenix,Los Angeles,In Transit,2024-08-16 12:40:55.776309
+3264,Houston,Phoenix,Delayed,2024-08-16 23:40:55.776313
+3265,Houston,Houston,Delivered,2024-08-17 00:40:55.776317
+3266,Los Angeles,Houston,In Transit,2024-08-16 06:40:55.776321
+3267,Houston,New York,Delayed,2024-08-17 00:40:55.776325
+3268,Houston,Chicago,In Transit,2024-08-16 09:40:55.776330
+3269,Houston,New York,Delayed,2024-08-16 14:40:55.776334
+3270,Houston,Los Angeles,Delivered,2024-08-16 03:40:55.776338
+3271,Houston,Phoenix,Delayed,2024-08-16 14:40:55.776342
+3272,Chicago,Phoenix,Delivered,2024-08-16 22:40:55.776346
+3273,Chicago,New York,In Transit,2024-08-16 15:40:55.776350
+3274,Phoenix,New York,Delivered,2024-08-16 22:40:55.776355
+3275,Phoenix,Los Angeles,In Transit,2024-08-16 03:40:55.776359
+3276,Phoenix,Houston,Delayed,2024-08-16 21:40:55.776363
+3277,Chicago,Phoenix,Delayed,2024-08-16 18:40:55.776367
+3278,Phoenix,New York,Delivered,2024-08-16 03:40:55.776371
+3279,Los Angeles,Phoenix,Delayed,2024-08-16 07:40:55.776375
+3280,New York,Houston,In Transit,2024-08-16 16:40:55.776379
+3281,Los Angeles,Phoenix,Delayed,2024-08-16 12:40:55.776384
+3282,New York,Houston,Delayed,2024-08-16 05:40:55.776388
+3283,New York,Houston,In Transit,2024-08-16 10:40:55.776392
+3284,Houston,Chicago,Delivered,2024-08-16 17:40:55.776396
+3285,Phoenix,Los Angeles,Delayed,2024-08-16 02:40:55.776400
+3286,New York,Phoenix,Delayed,2024-08-16 23:40:55.776405
+3287,Houston,Houston,Delayed,2024-08-16 09:40:55.776409
+3288,Los Angeles,Phoenix,Delayed,2024-08-16 04:40:55.776413
+3289,Houston,New York,Delayed,2024-08-16 06:40:55.776417
+3290,New York,Los Angeles,Delivered,2024-08-16 19:40:55.776421
+3291,Houston,Los Angeles,Delivered,2024-08-16 04:40:55.776425
+3292,Houston,New York,In Transit,2024-08-17 00:40:55.776431
+3293,Los Angeles,New York,Delivered,2024-08-17 00:40:55.776436
+3294,Los Angeles,Phoenix,In Transit,2024-08-16 17:40:55.776440
+3295,New York,Chicago,Delivered,2024-08-16 23:40:55.776444
+3296,Houston,Phoenix,In Transit,2024-08-16 15:40:55.776448
+3297,Chicago,Phoenix,In Transit,2024-08-16 04:40:55.776452
+3298,Houston,Houston,Delayed,2024-08-16 17:40:55.776457
+3299,New York,Phoenix,In Transit,2024-08-16 22:40:55.776461
+3300,Chicago,Los Angeles,Delayed,2024-08-16 15:40:55.776465
+3301,Houston,Chicago,In Transit,2024-08-17 00:40:55.776469
+3302,Los Angeles,New York,In Transit,2024-08-16 19:40:55.776473
+3303,New York,Los Angeles,Delayed,2024-08-16 20:40:55.776478
+3304,Houston,New York,Delivered,2024-08-16 20:40:55.776482
+3305,Los Angeles,Houston,Delivered,2024-08-16 11:40:55.776486
+3306,New York,Phoenix,Delivered,2024-08-16 07:40:55.776490
+3307,Chicago,Houston,Delayed,2024-08-16 04:40:55.776494
+3308,Chicago,New York,Delayed,2024-08-16 09:40:55.776498
+3309,New York,Phoenix,Delivered,2024-08-16 09:40:55.776503
+3310,Los Angeles,Phoenix,Delayed,2024-08-16 13:40:55.776507
+3311,Chicago,Houston,Delayed,2024-08-16 11:40:55.776511
+3312,New York,New York,Delivered,2024-08-16 20:40:55.776515
+3313,Houston,Chicago,Delivered,2024-08-16 22:40:55.776519
+3314,New York,Houston,Delivered,2024-08-16 18:40:55.776524
+3315,New York,Los Angeles,Delivered,2024-08-16 21:40:55.776528
+3316,New York,Los Angeles,Delivered,2024-08-16 15:40:55.776532
+3317,Los Angeles,Los Angeles,Delivered,2024-08-16 13:40:55.776536
+3318,Phoenix,New York,Delayed,2024-08-17 00:40:55.776540
+3319,Houston,Los Angeles,Delayed,2024-08-16 19:40:55.776544
+3320,Los Angeles,Los Angeles,In Transit,2024-08-16 14:40:55.776549
+3321,New York,Phoenix,Delayed,2024-08-16 19:40:55.776553
+3322,Houston,Phoenix,In Transit,2024-08-16 11:40:55.776557
+3323,Los Angeles,Phoenix,Delivered,2024-08-16 11:40:55.776561
+3324,Chicago,New York,In Transit,2024-08-16 15:40:55.776565
+3325,Houston,Los Angeles,Delivered,2024-08-16 09:40:55.776569
+3326,Phoenix,Houston,In Transit,2024-08-16 21:40:55.776574
+3327,Phoenix,Los Angeles,Delayed,2024-08-16 05:40:55.776578
+3328,Houston,Phoenix,Delivered,2024-08-16 10:40:55.776582
+3329,Houston,Los Angeles,Delivered,2024-08-16 16:40:55.776586
+3330,New York,Phoenix,Delayed,2024-08-16 10:40:55.776591
+3331,New York,Los Angeles,In Transit,2024-08-16 04:40:55.776595
+3332,New York,New York,Delayed,2024-08-16 07:40:55.776599
+3333,Houston,Chicago,Delayed,2024-08-16 16:40:55.776603
+3334,Phoenix,Chicago,Delivered,2024-08-16 03:40:55.776607
+3335,Chicago,Los Angeles,Delivered,2024-08-16 06:40:55.776611
+3336,Phoenix,Houston,In Transit,2024-08-17 00:40:55.776616
+3337,New York,Los Angeles,Delayed,2024-08-16 03:40:55.776620
+3338,Los Angeles,Los Angeles,Delivered,2024-08-16 10:40:55.776624
+3339,Phoenix,Chicago,Delivered,2024-08-16 03:40:55.776628
+3340,New York,Los Angeles,In Transit,2024-08-16 21:40:55.776632
+3341,Houston,Los Angeles,In Transit,2024-08-16 13:40:55.776636
+3342,Chicago,Phoenix,In Transit,2024-08-16 16:40:55.776641
+3343,Los Angeles,Los Angeles,Delayed,2024-08-16 05:40:55.776645
+3344,Phoenix,Phoenix,In Transit,2024-08-16 11:40:55.776649
+3345,New York,New York,Delayed,2024-08-16 22:40:55.776653
+3346,Phoenix,Houston,Delayed,2024-08-16 06:40:55.776657
+3347,Chicago,Los Angeles,Delayed,2024-08-16 06:40:55.776662
+3348,Los Angeles,Phoenix,Delivered,2024-08-16 16:40:55.776666
+3349,Phoenix,Phoenix,In Transit,2024-08-16 11:40:55.776670
+3350,Chicago,Los Angeles,Delayed,2024-08-16 09:40:55.776674
+3351,Los Angeles,Chicago,Delivered,2024-08-16 14:40:55.776678
+3352,Phoenix,Chicago,Delayed,2024-08-16 16:40:55.776682
+3353,New York,Los Angeles,In Transit,2024-08-16 10:40:55.776686
+3354,Chicago,Los Angeles,In Transit,2024-08-16 03:40:55.776691
+3355,New York,Chicago,Delayed,2024-08-16 23:40:55.776695
+3356,Chicago,Los Angeles,In Transit,2024-08-16 23:40:55.776699
+3357,New York,Los Angeles,Delivered,2024-08-16 08:40:55.776703
+3358,New York,Chicago,Delivered,2024-08-16 20:40:55.776707
+3359,Phoenix,Phoenix,In Transit,2024-08-16 03:40:55.776711
+3360,Phoenix,New York,Delayed,2024-08-16 08:40:55.776716
+3361,New York,Los Angeles,Delayed,2024-08-16 22:40:55.776720
+3362,Chicago,Chicago,Delayed,2024-08-16 19:40:55.776724
+3363,Phoenix,Los Angeles,Delivered,2024-08-16 09:40:55.776728
+3364,Phoenix,Los Angeles,In Transit,2024-08-16 18:40:55.776732
+3365,New York,Phoenix,Delivered,2024-08-16 03:40:55.776737
+3366,Chicago,New York,In Transit,2024-08-16 11:40:55.776741
+3367,New York,Los Angeles,In Transit,2024-08-16 23:40:55.776745
+3368,Houston,New York,Delivered,2024-08-16 07:40:55.776749
+3369,New York,Chicago,Delivered,2024-08-16 05:40:55.776753
+3370,Chicago,Chicago,In Transit,2024-08-16 06:40:55.776758
+3371,Phoenix,Houston,Delayed,2024-08-16 10:40:55.776762
+3372,Phoenix,Phoenix,In Transit,2024-08-16 03:40:55.776766
+3373,Los Angeles,Chicago,Delivered,2024-08-16 10:40:55.776770
+3374,New York,Los Angeles,In Transit,2024-08-16 02:40:55.776775
+3375,Phoenix,Los Angeles,In Transit,2024-08-16 20:40:55.776779
+3376,Houston,Chicago,In Transit,2024-08-16 10:40:55.776784
+3377,Phoenix,Houston,Delivered,2024-08-16 16:40:55.776789
+3378,Houston,Phoenix,Delayed,2024-08-16 23:40:55.776793
+3379,Phoenix,Houston,Delayed,2024-08-16 02:40:55.776797
+3380,Phoenix,New York,Delayed,2024-08-16 13:40:55.776801
+3381,Chicago,Phoenix,Delivered,2024-08-16 08:40:55.776806
+3382,Phoenix,Phoenix,Delivered,2024-08-16 14:40:55.776810
+3383,Houston,Los Angeles,Delayed,2024-08-16 16:40:55.776814
+3384,Chicago,Phoenix,In Transit,2024-08-16 17:40:55.776818
+3385,Phoenix,Phoenix,In Transit,2024-08-16 09:40:55.776822
+3386,Chicago,Los Angeles,Delivered,2024-08-16 09:40:55.776826
+3387,Phoenix,Phoenix,Delivered,2024-08-16 12:40:55.776831
+3388,Los Angeles,Houston,In Transit,2024-08-16 22:40:55.776835
+3389,Chicago,Phoenix,Delivered,2024-08-16 03:40:55.776839
+3390,Houston,Chicago,Delivered,2024-08-16 20:40:55.776843
+3391,Los Angeles,Phoenix,In Transit,2024-08-16 12:40:55.776847
+3392,Phoenix,Phoenix,Delayed,2024-08-16 10:40:55.776852
+3393,Phoenix,New York,In Transit,2024-08-16 07:40:55.776856
+3394,Los Angeles,New York,Delayed,2024-08-16 05:40:55.776860
+3395,New York,Houston,Delayed,2024-08-16 04:40:55.776864
+3396,Los Angeles,New York,Delayed,2024-08-16 05:40:55.776868
+3397,Houston,Houston,In Transit,2024-08-16 18:40:55.776873
+3398,Phoenix,New York,Delivered,2024-08-16 10:40:55.776877
+3399,Chicago,New York,In Transit,2024-08-16 12:40:55.776881
+3400,New York,Los Angeles,In Transit,2024-08-16 12:40:55.776885
+3401,Chicago,Houston,Delivered,2024-08-16 08:40:55.776889
+3402,Los Angeles,Phoenix,In Transit,2024-08-16 12:40:55.776893
+3403,Phoenix,New York,Delivered,2024-08-16 17:40:55.776898
+3404,Houston,Houston,Delivered,2024-08-16 05:40:55.776902
+3405,Los Angeles,Phoenix,Delayed,2024-08-16 13:40:55.776906
+3406,Los Angeles,New York,Delivered,2024-08-16 16:40:55.776912
+3407,Chicago,Chicago,Delayed,2024-08-16 09:40:55.776916
+3408,Chicago,Phoenix,Delayed,2024-08-16 17:40:55.776920
+3409,Phoenix,New York,Delivered,2024-08-16 19:40:55.776924
+3410,Chicago,New York,Delivered,2024-08-16 22:40:55.776928
+3411,New York,Phoenix,Delivered,2024-08-16 15:40:55.776933
+3412,Phoenix,Houston,Delivered,2024-08-16 06:40:55.776937
+3413,Houston,Los Angeles,Delivered,2024-08-16 17:40:55.776941
+3414,New York,New York,In Transit,2024-08-16 20:40:55.776945
+3415,Los Angeles,Houston,Delivered,2024-08-16 05:40:55.776949
+3416,Chicago,Chicago,Delayed,2024-08-16 09:40:55.776954
+3417,Houston,Phoenix,In Transit,2024-08-16 07:40:55.776958
+3418,Phoenix,Houston,Delivered,2024-08-16 17:40:55.776962
+3419,Chicago,Houston,Delivered,2024-08-17 00:40:55.776966
+3420,New York,Houston,Delayed,2024-08-16 13:40:55.776970
+3421,Los Angeles,Los Angeles,Delayed,2024-08-16 21:40:55.776975
+3422,Los Angeles,Los Angeles,In Transit,2024-08-16 19:40:55.776979
+3423,Chicago,Chicago,In Transit,2024-08-16 11:40:55.776983
+3424,Phoenix,New York,Delivered,2024-08-16 14:40:55.776987
+3425,Phoenix,Los Angeles,In Transit,2024-08-16 02:40:55.776992
+3426,Chicago,Los Angeles,In Transit,2024-08-16 17:40:55.776996
+3427,Chicago,Los Angeles,Delivered,2024-08-17 00:40:55.777000
+3428,Chicago,Los Angeles,In Transit,2024-08-16 02:40:55.777004
+3429,Houston,Chicago,Delayed,2024-08-16 05:40:55.777009
+3430,Chicago,Houston,Delivered,2024-08-16 20:40:55.777013
+3431,Houston,Phoenix,Delivered,2024-08-16 17:40:55.777017
+3432,New York,Phoenix,Delivered,2024-08-16 05:40:55.777021
+3433,Chicago,Houston,In Transit,2024-08-16 20:40:55.777026
+3434,Chicago,New York,Delivered,2024-08-16 14:40:55.777030
+3435,Phoenix,Chicago,Delayed,2024-08-16 12:40:55.777034
+3436,Chicago,Chicago,In Transit,2024-08-16 21:40:55.777038
+3437,Houston,Los Angeles,Delayed,2024-08-16 10:40:55.777043
+3438,Houston,Houston,In Transit,2024-08-16 19:40:55.777047
+3439,Chicago,Los Angeles,Delayed,2024-08-16 18:40:55.777051
+3440,Houston,Phoenix,Delivered,2024-08-17 00:40:55.777055
+3441,Chicago,Phoenix,Delivered,2024-08-16 23:40:55.777059
+3442,New York,Houston,In Transit,2024-08-16 04:40:55.777064
+3443,Houston,Phoenix,Delivered,2024-08-16 11:40:55.777068
+3444,Houston,Chicago,In Transit,2024-08-16 02:40:55.777072
+3445,Houston,Los Angeles,Delivered,2024-08-16 13:40:55.777076
+3446,Houston,Chicago,In Transit,2024-08-16 13:40:55.777080
+3447,Chicago,Houston,In Transit,2024-08-16 10:40:55.777085
+3448,Chicago,Houston,Delayed,2024-08-16 23:40:55.777089
+3449,New York,Phoenix,Delivered,2024-08-16 18:40:55.777093
+3450,Chicago,New York,Delayed,2024-08-16 16:40:55.777097
+3451,Houston,New York,Delivered,2024-08-16 10:40:55.777101
+3452,New York,Houston,Delivered,2024-08-16 23:40:55.777106
+3453,Los Angeles,Chicago,Delivered,2024-08-16 22:40:55.777110
+3454,Phoenix,Los Angeles,Delayed,2024-08-16 14:40:55.777114
+3455,New York,New York,Delayed,2024-08-16 15:40:55.777118
+3456,Phoenix,New York,Delayed,2024-08-16 13:40:55.777122
+3457,Houston,Chicago,Delivered,2024-08-16 11:40:55.777127
+3458,Los Angeles,Houston,In Transit,2024-08-16 13:40:55.777131
+3459,Phoenix,Phoenix,Delivered,2024-08-16 03:40:55.777135
+3460,New York,Chicago,Delivered,2024-08-16 15:40:55.777141
+3461,Chicago,Houston,In Transit,2024-08-16 11:40:55.777146
+3462,Phoenix,Los Angeles,Delivered,2024-08-16 21:40:55.777150
+3463,Chicago,Houston,Delayed,2024-08-16 18:40:55.777154
+3464,Phoenix,Phoenix,Delayed,2024-08-16 09:40:55.777158
+3465,Houston,Houston,Delayed,2024-08-16 23:40:55.777162
+3466,Chicago,Houston,Delayed,2024-08-16 12:40:55.777166
+3467,Los Angeles,Chicago,In Transit,2024-08-16 09:40:55.777170
+3468,New York,Phoenix,Delayed,2024-08-16 08:40:55.777175
+3469,Los Angeles,Phoenix,Delivered,2024-08-16 04:40:55.777179
+3470,Phoenix,New York,Delivered,2024-08-16 12:40:55.777183
+3471,Phoenix,New York,Delayed,2024-08-16 07:40:55.777187
+3472,Los Angeles,Los Angeles,In Transit,2024-08-16 21:40:55.777191
+3473,Phoenix,Los Angeles,Delivered,2024-08-16 19:40:55.777195
+3474,Houston,Phoenix,In Transit,2024-08-16 08:40:55.777200
+3475,New York,Houston,In Transit,2024-08-16 22:40:55.777204
+3476,Houston,New York,Delayed,2024-08-16 19:40:55.777208
+3477,Chicago,Los Angeles,Delayed,2024-08-16 06:40:55.777212
+3478,New York,Phoenix,Delivered,2024-08-16 08:40:55.777216
+3479,New York,Houston,In Transit,2024-08-16 23:40:55.777221
+3480,Phoenix,Chicago,In Transit,2024-08-16 11:40:55.777225
+3481,Chicago,Houston,Delayed,2024-08-16 19:40:55.777229
+3482,Los Angeles,New York,In Transit,2024-08-16 02:40:55.777233
+3483,Chicago,Houston,Delivered,2024-08-16 17:40:55.777237
+3484,Los Angeles,New York,Delayed,2024-08-16 20:40:55.777241
+3485,Chicago,Chicago,In Transit,2024-08-16 13:40:55.777246
+3486,Chicago,Houston,In Transit,2024-08-16 23:40:55.777250
+3487,Los Angeles,Chicago,Delayed,2024-08-16 10:40:55.777254
+3488,Houston,New York,Delayed,2024-08-16 10:40:55.777258
+3489,Phoenix,New York,Delayed,2024-08-16 21:40:55.777262
+3490,Phoenix,New York,In Transit,2024-08-16 22:40:55.777267
+3491,Phoenix,Phoenix,Delayed,2024-08-16 08:40:55.777271
+3492,Los Angeles,New York,Delivered,2024-08-16 11:40:55.777275
+3493,Phoenix,Los Angeles,In Transit,2024-08-16 18:40:55.777279
+3494,New York,Houston,In Transit,2024-08-16 13:40:55.777283
+3495,Chicago,Phoenix,Delayed,2024-08-16 08:40:55.777287
+3496,Los Angeles,Chicago,In Transit,2024-08-16 18:40:55.777291
+3497,Los Angeles,Chicago,Delivered,2024-08-16 15:40:55.777296
+3498,New York,Los Angeles,Delivered,2024-08-16 09:40:55.777300
+3499,Chicago,Houston,In Transit,2024-08-16 06:40:55.777304
+3500,Phoenix,Los Angeles,Delayed,2024-08-17 00:40:55.777308
+3501,Los Angeles,Houston,Delayed,2024-08-16 16:40:55.777312
+3502,Los Angeles,Chicago,Delivered,2024-08-16 07:40:55.777316
+3503,Los Angeles,Los Angeles,In Transit,2024-08-16 10:40:55.777321
+3504,Los Angeles,Chicago,In Transit,2024-08-16 06:40:55.777325
+3505,Los Angeles,Houston,Delivered,2024-08-16 03:40:55.777329
+3506,Los Angeles,Los Angeles,Delivered,2024-08-16 07:40:55.777333
+3507,New York,Los Angeles,Delivered,2024-08-16 03:40:55.777337
+3508,Los Angeles,Phoenix,In Transit,2024-08-16 19:40:55.777341
+3509,Houston,Phoenix,Delivered,2024-08-16 14:40:55.777346
+3510,Chicago,Houston,Delivered,2024-08-16 03:40:55.777350
+3511,Chicago,Houston,Delayed,2024-08-16 09:40:55.777354
+3512,Phoenix,Los Angeles,Delivered,2024-08-16 10:40:55.777358
+3513,Los Angeles,Phoenix,In Transit,2024-08-16 16:40:55.777362
+3514,Los Angeles,Houston,In Transit,2024-08-16 06:40:55.777366
+3515,New York,Los Angeles,In Transit,2024-08-16 18:40:55.777370
+3516,Houston,Houston,Delivered,2024-08-16 11:40:55.777374
+3517,Chicago,New York,In Transit,2024-08-16 02:40:55.777378
+3518,Chicago,Phoenix,In Transit,2024-08-16 04:40:55.777383
+3519,Phoenix,Houston,Delivered,2024-08-16 15:40:55.777387
+3520,Los Angeles,Chicago,Delivered,2024-08-16 15:40:55.777391
+3521,New York,Los Angeles,Delayed,2024-08-16 17:40:55.777395
+3522,Phoenix,Los Angeles,Delayed,2024-08-16 09:40:55.777399
+3523,Phoenix,Phoenix,In Transit,2024-08-16 04:40:55.777404
+3524,Phoenix,Phoenix,In Transit,2024-08-16 12:40:55.777408
+3525,New York,Los Angeles,Delivered,2024-08-16 13:40:55.777412
+3526,New York,Houston,In Transit,2024-08-16 17:40:55.777416
+3527,Los Angeles,Phoenix,Delayed,2024-08-16 06:40:55.777420
+3528,New York,Phoenix,Delivered,2024-08-16 16:40:55.777424
+3529,Phoenix,Los Angeles,Delayed,2024-08-16 08:40:55.777429
+3530,Los Angeles,Los Angeles,In Transit,2024-08-16 04:40:55.777433
+3531,Phoenix,Houston,Delayed,2024-08-16 12:40:55.777437
+3532,Phoenix,Los Angeles,In Transit,2024-08-16 06:40:55.777441
+3533,Chicago,New York,In Transit,2024-08-16 12:40:55.777445
+3534,New York,Houston,Delayed,2024-08-16 15:40:55.777449
+3535,Chicago,Chicago,Delivered,2024-08-16 19:40:55.777454
+3536,Chicago,Houston,Delivered,2024-08-16 16:40:55.777458
+3537,Phoenix,New York,Delivered,2024-08-16 14:40:55.777462
+3538,New York,Chicago,Delivered,2024-08-16 10:40:55.777466
+3539,Phoenix,Houston,Delivered,2024-08-16 19:40:55.777470
+3540,Houston,Los Angeles,Delayed,2024-08-16 17:40:55.777474
+3541,Phoenix,Chicago,Delivered,2024-08-16 23:40:55.777479
+3542,Phoenix,Phoenix,Delivered,2024-08-16 09:40:55.777483
+3543,New York,Los Angeles,Delayed,2024-08-16 13:40:55.777487
+3544,Phoenix,Houston,Delayed,2024-08-17 00:40:55.777493
+3545,Phoenix,Los Angeles,Delivered,2024-08-16 06:40:55.777497
+3546,Chicago,Los Angeles,In Transit,2024-08-16 19:40:55.777501
+3547,Phoenix,Los Angeles,Delivered,2024-08-16 14:40:55.777506
+3548,New York,Phoenix,Delivered,2024-08-16 09:40:55.777510
+3549,Chicago,Los Angeles,Delayed,2024-08-16 20:40:55.777514
+3550,Los Angeles,Phoenix,Delayed,2024-08-16 19:40:55.777518
+3551,Los Angeles,Houston,In Transit,2024-08-17 00:40:55.777522
+3552,Phoenix,New York,In Transit,2024-08-16 09:40:55.777526
+3553,Chicago,Phoenix,Delayed,2024-08-17 00:40:55.777530
+3554,Houston,Los Angeles,In Transit,2024-08-16 09:40:55.777535
+3555,Los Angeles,Phoenix,In Transit,2024-08-16 10:40:55.777539
+3556,Chicago,Chicago,Delivered,2024-08-16 22:40:55.777543
+3557,Los Angeles,Houston,Delayed,2024-08-16 19:40:55.777547
+3558,Chicago,Los Angeles,In Transit,2024-08-16 13:40:55.777551
+3559,Phoenix,Chicago,Delivered,2024-08-16 20:40:55.777556
+3560,Chicago,Chicago,Delivered,2024-08-16 15:40:55.777560
+3561,Chicago,Phoenix,Delayed,2024-08-16 18:40:55.777564
+3562,New York,Chicago,Delayed,2024-08-16 14:40:55.777568
+3563,Phoenix,Los Angeles,Delayed,2024-08-16 14:40:55.777572
+3564,Houston,Chicago,In Transit,2024-08-16 13:40:55.777576
+3565,Los Angeles,Chicago,In Transit,2024-08-16 16:40:55.777581
+3566,Chicago,Phoenix,Delayed,2024-08-16 21:40:55.777585
+3567,Chicago,Los Angeles,Delivered,2024-08-16 04:40:55.777589
+3568,Phoenix,New York,Delivered,2024-08-16 20:40:55.777593
+3569,New York,Houston,Delayed,2024-08-16 08:40:55.777597
+3570,Los Angeles,New York,In Transit,2024-08-16 03:40:55.777602
+3571,Houston,New York,Delayed,2024-08-16 07:40:55.777606
+3572,Chicago,Los Angeles,Delayed,2024-08-16 21:40:55.777610
+3573,New York,Los Angeles,In Transit,2024-08-16 09:40:55.777614
+3574,Los Angeles,Chicago,Delivered,2024-08-16 18:40:55.777618
+3575,Los Angeles,Houston,Delivered,2024-08-16 10:40:55.777622
+3576,Houston,Phoenix,Delivered,2024-08-16 02:40:55.777627
+3577,Phoenix,Los Angeles,Delayed,2024-08-16 08:40:55.777631
+3578,Los Angeles,Los Angeles,Delayed,2024-08-16 03:40:55.777635
+3579,Los Angeles,Chicago,Delivered,2024-08-16 02:40:55.777639
+3580,Houston,Houston,Delayed,2024-08-16 05:40:55.777643
+3581,Chicago,Phoenix,Delivered,2024-08-16 11:40:55.777647
+3582,Phoenix,Houston,Delivered,2024-08-16 23:40:55.777652
+3583,Houston,Houston,Delayed,2024-08-16 17:40:55.777656
+3584,Chicago,Chicago,Delivered,2024-08-16 07:40:55.777660
+3585,Houston,New York,In Transit,2024-08-16 14:40:55.777664
+3586,Houston,Los Angeles,Delivered,2024-08-16 04:40:55.777668
+3587,Houston,New York,In Transit,2024-08-16 03:40:55.777673
+3588,New York,New York,In Transit,2024-08-16 09:40:55.777677
+3589,Houston,New York,Delivered,2024-08-16 13:40:55.777681
+3590,Chicago,Chicago,Delivered,2024-08-16 20:40:55.777685
+3591,Chicago,Phoenix,Delayed,2024-08-16 15:40:55.777689
+3592,Los Angeles,Houston,In Transit,2024-08-16 14:40:55.777693
+3593,New York,New York,Delayed,2024-08-16 14:40:55.777698
+3594,Chicago,Phoenix,Delivered,2024-08-16 19:40:55.777702
+3595,New York,Chicago,In Transit,2024-08-16 11:40:55.777706
+3596,Los Angeles,Phoenix,Delivered,2024-08-16 22:40:55.777710
+3597,New York,Chicago,Delayed,2024-08-16 13:40:55.777714
+3598,Chicago,Houston,Delayed,2024-08-16 05:40:55.777718
+3599,Phoenix,Los Angeles,Delayed,2024-08-16 04:40:55.777723
+3600,New York,Los Angeles,Delivered,2024-08-16 23:40:55.777727
+3601,New York,Houston,Delivered,2024-08-16 10:40:55.777731
+3602,Phoenix,Chicago,Delayed,2024-08-16 12:40:55.777735
+3603,Houston,Los Angeles,In Transit,2024-08-16 09:40:55.777739
+3604,Phoenix,New York,In Transit,2024-08-16 15:40:55.777743
+3605,Houston,Chicago,Delivered,2024-08-16 10:40:55.777748
+3606,Phoenix,Los Angeles,Delayed,2024-08-16 21:40:55.777752
+3607,New York,Los Angeles,In Transit,2024-08-16 17:40:55.777756
+3608,Houston,New York,Delivered,2024-08-16 21:40:55.777760
+3609,Houston,Houston,In Transit,2024-08-16 13:40:55.777764
+3610,Phoenix,Los Angeles,In Transit,2024-08-17 00:40:55.777768
+3611,New York,New York,Delivered,2024-08-16 21:40:55.777772
+3612,New York,Phoenix,In Transit,2024-08-16 19:40:55.777777
+3613,New York,Houston,Delivered,2024-08-16 05:40:55.777781
+3614,Houston,Chicago,In Transit,2024-08-16 21:40:55.777785
+3615,Houston,Houston,In Transit,2024-08-17 00:40:55.777789
+3616,Houston,Los Angeles,Delivered,2024-08-16 06:40:55.777793
+3617,New York,Los Angeles,Delayed,2024-08-16 21:40:55.777797
+3618,Los Angeles,New York,Delayed,2024-08-16 22:40:55.777802
+3619,Los Angeles,Los Angeles,Delayed,2024-08-16 17:40:55.777806
+3620,Houston,Houston,Delivered,2024-08-16 20:40:55.777810
+3621,Houston,New York,Delivered,2024-08-16 04:40:55.777814
+3622,New York,Phoenix,In Transit,2024-08-16 11:40:55.777818
+3623,New York,Phoenix,In Transit,2024-08-16 13:40:55.777822
+3624,Los Angeles,Phoenix,Delayed,2024-08-16 20:40:55.777826
+3625,Los Angeles,New York,Delivered,2024-08-16 22:40:55.777831
+3626,Phoenix,Houston,In Transit,2024-08-16 14:40:55.777835
+3627,New York,New York,Delayed,2024-08-16 07:40:55.777839
+3628,Chicago,Chicago,Delivered,2024-08-16 17:40:55.777853
+3629,Phoenix,New York,Delivered,2024-08-16 13:40:55.777858
+3630,New York,Los Angeles,Delayed,2024-08-16 04:40:55.777862
+3631,Chicago,Phoenix,In Transit,2024-08-16 12:40:55.777866
+3632,Chicago,New York,Delayed,2024-08-16 16:40:55.777870
+3633,Houston,Chicago,In Transit,2024-08-16 14:40:55.777874
+3634,Houston,Los Angeles,In Transit,2024-08-16 12:40:55.777878
+3635,Chicago,Houston,Delivered,2024-08-16 09:40:55.777882
+3636,Chicago,New York,Delivered,2024-08-17 00:40:55.777887
+3637,Phoenix,Phoenix,Delivered,2024-08-16 17:40:55.777891
+3638,Chicago,Los Angeles,Delivered,2024-08-16 22:40:55.777895
+3639,Houston,New York,Delayed,2024-08-16 05:40:55.777899
+3640,Houston,Los Angeles,Delivered,2024-08-16 17:40:55.777903
+3641,Houston,Los Angeles,Delivered,2024-08-16 13:40:55.777907
+3642,Los Angeles,Los Angeles,In Transit,2024-08-16 02:40:55.777912
+3643,Phoenix,Chicago,Delivered,2024-08-16 04:40:55.777916
+3644,Phoenix,New York,Delivered,2024-08-16 16:40:55.777920
+3645,Phoenix,Los Angeles,Delayed,2024-08-16 15:40:55.777924
+3646,Los Angeles,New York,Delivered,2024-08-16 08:40:55.777928
+3647,Phoenix,Los Angeles,Delivered,2024-08-16 15:40:55.777932
+3648,Los Angeles,Phoenix,Delayed,2024-08-16 16:40:55.777937
+3649,Los Angeles,New York,Delivered,2024-08-16 14:40:55.777941
+3650,Chicago,New York,Delivered,2024-08-16 20:40:55.777945
+3651,Los Angeles,Phoenix,Delayed,2024-08-16 16:40:55.777949
+3652,New York,New York,Delayed,2024-08-16 03:40:55.777954
+3653,New York,Los Angeles,Delivered,2024-08-16 17:40:55.777958
+3654,Phoenix,Chicago,Delivered,2024-08-16 21:40:55.777962
+3655,New York,New York,Delayed,2024-08-16 10:40:55.777966
+3656,Chicago,Phoenix,Delayed,2024-08-16 14:40:55.777970
+3657,New York,Chicago,Delayed,2024-08-16 02:40:55.777974
+3658,Los Angeles,New York,In Transit,2024-08-16 13:40:55.777979
+3659,New York,Los Angeles,Delivered,2024-08-16 06:40:55.777983
+3660,Houston,Houston,Delayed,2024-08-16 12:40:55.777987
+3661,Chicago,Houston,In Transit,2024-08-16 13:40:55.777991
+3662,Phoenix,Chicago,Delivered,2024-08-16 12:40:55.777995
+3663,Houston,Phoenix,Delivered,2024-08-16 21:40:55.777999
+3664,Chicago,New York,Delayed,2024-08-16 04:40:55.778003
+3665,Chicago,Houston,In Transit,2024-08-16 07:40:55.778007
+3666,Chicago,Houston,Delayed,2024-08-16 04:40:55.778012
+3667,New York,New York,In Transit,2024-08-16 04:40:55.778016
+3668,New York,New York,In Transit,2024-08-16 03:40:55.778020
+3669,Houston,Phoenix,Delayed,2024-08-16 02:40:55.778024
+3670,Houston,New York,Delivered,2024-08-16 02:40:55.778028
+3671,Los Angeles,Houston,Delivered,2024-08-16 07:40:55.778033
+3672,Los Angeles,New York,Delivered,2024-08-16 04:40:55.778037
+3673,Los Angeles,Los Angeles,In Transit,2024-08-16 07:40:55.778041
+3674,Chicago,Houston,Delivered,2024-08-16 14:40:55.778045
+3675,Phoenix,Chicago,In Transit,2024-08-16 03:40:55.778049
+3676,Los Angeles,Phoenix,Delivered,2024-08-16 09:40:55.778053
+3677,Houston,Houston,Delayed,2024-08-16 09:40:55.778058
+3678,Phoenix,New York,Delayed,2024-08-16 04:40:55.778062
+3679,Los Angeles,Phoenix,In Transit,2024-08-16 14:40:55.778066
+3680,New York,Phoenix,In Transit,2024-08-16 16:40:55.778070
+3681,Los Angeles,Chicago,Delivered,2024-08-16 21:40:55.778074
+3682,Los Angeles,Los Angeles,Delivered,2024-08-16 20:40:55.778078
+3683,Chicago,Los Angeles,In Transit,2024-08-17 00:40:55.778083
+3684,Chicago,New York,Delivered,2024-08-16 23:40:55.778087
+3685,Los Angeles,Los Angeles,In Transit,2024-08-16 21:40:55.778091
+3686,Chicago,Phoenix,Delivered,2024-08-16 18:40:55.778095
+3687,New York,New York,Delivered,2024-08-16 19:40:55.778099
+3688,Phoenix,Los Angeles,In Transit,2024-08-16 05:40:55.778104
+3689,Phoenix,New York,Delayed,2024-08-16 20:40:55.778108
+3690,Chicago,Phoenix,Delayed,2024-08-16 02:40:55.778112
+3691,Los Angeles,Phoenix,Delivered,2024-08-16 02:40:55.778116
+3692,New York,Houston,In Transit,2024-08-16 07:40:55.778120
+3693,New York,Los Angeles,Delivered,2024-08-16 22:40:55.778125
+3694,Houston,Los Angeles,Delivered,2024-08-16 10:40:55.778129
+3695,Chicago,Chicago,Delayed,2024-08-16 13:40:55.778133
+3696,Houston,Los Angeles,Delayed,2024-08-16 07:40:55.778137
+3697,Chicago,New York,Delivered,2024-08-16 10:40:55.778141
+3698,Houston,New York,Delayed,2024-08-16 18:40:55.778145
+3699,Los Angeles,Phoenix,Delivered,2024-08-16 08:40:55.778150
+3700,Chicago,New York,Delayed,2024-08-16 20:40:55.778154
+3701,Phoenix,Chicago,Delivered,2024-08-16 07:40:55.778158
+3702,Chicago,Phoenix,Delayed,2024-08-16 12:40:55.778162
+3703,Phoenix,Phoenix,In Transit,2024-08-16 05:40:55.778166
+3704,Houston,Phoenix,Delivered,2024-08-16 23:40:55.778170
+3705,Houston,Los Angeles,Delivered,2024-08-16 20:40:55.778175
+3706,Los Angeles,New York,Delayed,2024-08-16 22:40:55.778179
+3707,Phoenix,Los Angeles,Delivered,2024-08-16 02:40:55.778183
+3708,Los Angeles,Houston,In Transit,2024-08-16 15:40:55.778187
+3709,New York,Phoenix,Delayed,2024-08-16 09:40:55.778191
+3710,Phoenix,Houston,In Transit,2024-08-16 18:40:55.778196
+3711,Chicago,Los Angeles,Delayed,2024-08-16 05:40:55.778200
+3712,Phoenix,New York,Delayed,2024-08-16 07:40:55.778205
+3713,Houston,Phoenix,Delayed,2024-08-16 19:40:55.778210
+3714,Los Angeles,Houston,Delayed,2024-08-16 18:40:55.778214
+3715,New York,Houston,In Transit,2024-08-16 22:40:55.778218
+3716,Los Angeles,Phoenix,Delivered,2024-08-16 05:40:55.778222
+3717,New York,Chicago,In Transit,2024-08-16 05:40:55.778226
+3718,Houston,Phoenix,Delivered,2024-08-16 12:40:55.778231
+3719,Los Angeles,Houston,In Transit,2024-08-16 23:40:55.778235
+3720,Chicago,Los Angeles,Delayed,2024-08-16 22:40:55.778239
+3721,Chicago,Los Angeles,Delayed,2024-08-16 11:40:55.778243
+3722,Los Angeles,Houston,In Transit,2024-08-16 22:40:55.778247
+3723,Los Angeles,Los Angeles,Delivered,2024-08-16 07:40:55.778252
+3724,New York,Los Angeles,Delayed,2024-08-16 17:40:55.778256
+3725,Los Angeles,Chicago,Delayed,2024-08-16 22:40:55.778260
+3726,New York,Houston,Delayed,2024-08-16 20:40:55.778264
+3727,Los Angeles,New York,Delayed,2024-08-16 21:40:55.778268
+3728,Los Angeles,Chicago,In Transit,2024-08-16 12:40:55.778273
+3729,Phoenix,Houston,Delayed,2024-08-16 09:40:55.778277
+3730,New York,Los Angeles,In Transit,2024-08-16 12:40:55.778281
+3731,Houston,Los Angeles,Delivered,2024-08-16 11:40:55.778285
+3732,Chicago,New York,Delivered,2024-08-16 16:40:55.778289
+3733,New York,Los Angeles,In Transit,2024-08-16 21:40:55.778294
+3734,Los Angeles,New York,In Transit,2024-08-16 21:40:55.778298
+3735,Chicago,Los Angeles,In Transit,2024-08-16 03:40:55.778302
+3736,Los Angeles,Phoenix,Delivered,2024-08-16 09:40:55.778306
+3737,Houston,Phoenix,In Transit,2024-08-17 00:40:55.778310
+3738,New York,Los Angeles,Delayed,2024-08-16 13:40:55.778315
+3739,New York,New York,Delayed,2024-08-16 03:40:55.778319
+3740,Los Angeles,New York,Delayed,2024-08-16 10:40:55.778323
+3741,Los Angeles,Chicago,In Transit,2024-08-16 05:40:55.778327
+3742,New York,Phoenix,In Transit,2024-08-16 08:40:55.778331
+3743,Los Angeles,Chicago,Delivered,2024-08-16 10:40:55.778336
+3744,New York,New York,In Transit,2024-08-16 15:40:55.778340
+3745,Phoenix,Los Angeles,In Transit,2024-08-16 04:40:55.778344
+3746,Houston,Phoenix,Delayed,2024-08-16 12:40:55.778348
+3747,New York,Houston,Delayed,2024-08-16 22:40:55.778352
+3748,Houston,Los Angeles,In Transit,2024-08-16 20:40:55.778357
+3749,Houston,New York,Delayed,2024-08-16 08:40:55.778361
+3750,Phoenix,Phoenix,Delayed,2024-08-16 11:40:55.778365
+3751,New York,New York,In Transit,2024-08-16 22:40:55.778369
+3752,Los Angeles,New York,Delivered,2024-08-16 13:40:55.778374
+3753,Los Angeles,Houston,Delayed,2024-08-16 04:40:55.778378
+3754,New York,New York,Delivered,2024-08-16 09:40:55.778382
+3755,New York,New York,Delayed,2024-08-16 18:40:55.778387
+3756,Houston,New York,Delayed,2024-08-16 22:40:55.778391
+3757,Houston,Houston,Delayed,2024-08-16 22:40:55.778395
+3758,Chicago,Chicago,Delayed,2024-08-16 14:40:55.778399
+3759,Houston,New York,Delivered,2024-08-16 04:40:55.778403
+3760,New York,New York,In Transit,2024-08-17 00:40:55.778407
+3761,Chicago,Los Angeles,Delayed,2024-08-16 06:40:55.778411
+3762,Houston,Phoenix,Delayed,2024-08-16 10:40:55.778416
+3763,Los Angeles,Phoenix,Delayed,2024-08-16 18:40:55.778420
+3764,Houston,Phoenix,Delayed,2024-08-16 22:40:55.778424
+3765,Houston,Phoenix,In Transit,2024-08-16 17:40:55.778428
+3766,Houston,Phoenix,Delivered,2024-08-16 03:40:55.778432
+3767,Houston,Los Angeles,Delivered,2024-08-16 08:40:55.778437
+3768,Phoenix,Houston,Delivered,2024-08-16 08:40:55.778441
+3769,New York,Phoenix,In Transit,2024-08-16 06:40:55.778445
+3770,Chicago,Los Angeles,Delivered,2024-08-16 03:40:55.778449
+3771,New York,Los Angeles,Delivered,2024-08-16 22:40:55.778453
+3772,Houston,New York,In Transit,2024-08-16 17:40:55.778458
+3773,Los Angeles,Phoenix,In Transit,2024-08-16 13:40:55.778462
+3774,Chicago,Los Angeles,In Transit,2024-08-16 17:40:55.778466
+3775,New York,Los Angeles,Delayed,2024-08-16 12:40:55.778470
+3776,Los Angeles,Los Angeles,Delivered,2024-08-16 23:40:55.778474
+3777,Houston,Los Angeles,Delivered,2024-08-16 13:40:55.778478
+3778,Los Angeles,Chicago,In Transit,2024-08-16 20:40:55.778483
+3779,New York,Los Angeles,Delayed,2024-08-16 12:40:55.778487
+3780,Chicago,Houston,In Transit,2024-08-16 14:40:55.778491
+3781,New York,Houston,Delayed,2024-08-16 18:40:55.778495
+3782,Los Angeles,Phoenix,In Transit,2024-08-17 00:40:55.778499
+3783,Los Angeles,Phoenix,Delayed,2024-08-17 00:40:55.778503
+3784,New York,Phoenix,In Transit,2024-08-16 20:40:55.778508
+3785,New York,Los Angeles,Delivered,2024-08-16 04:40:55.778512
+3786,New York,Phoenix,In Transit,2024-08-16 13:40:55.778516
+3787,Los Angeles,Phoenix,Delayed,2024-08-16 08:40:55.778520
+3788,Phoenix,Houston,Delayed,2024-08-16 03:40:55.778524
+3789,New York,Phoenix,In Transit,2024-08-16 23:40:55.778528
+3790,Houston,New York,Delivered,2024-08-16 11:40:55.778533
+3791,Los Angeles,Los Angeles,Delivered,2024-08-16 12:40:55.778537
+3792,Phoenix,Los Angeles,Delivered,2024-08-16 05:40:55.778541
+3793,Chicago,Los Angeles,Delivered,2024-08-16 22:40:55.778546
+3794,Phoenix,New York,Delayed,2024-08-16 13:40:55.778550
+3795,Chicago,Chicago,Delayed,2024-08-16 06:40:55.778554
+3796,Phoenix,Chicago,Delivered,2024-08-16 23:40:55.778564
+3797,Los Angeles,Houston,Delivered,2024-08-16 13:40:55.778568
+3798,Houston,Chicago,In Transit,2024-08-16 20:40:55.778572
+3799,Los Angeles,New York,Delivered,2024-08-16 08:40:55.778577
+3800,Phoenix,Houston,In Transit,2024-08-16 12:40:55.778581
+3801,Phoenix,Los Angeles,Delivered,2024-08-16 23:40:55.778585
+3802,Chicago,Phoenix,Delayed,2024-08-16 11:40:55.778589
+3803,New York,Los Angeles,Delivered,2024-08-16 08:40:55.778594
+3804,Los Angeles,Phoenix,In Transit,2024-08-16 12:40:55.778598
+3805,Chicago,Phoenix,Delayed,2024-08-16 11:40:55.778602
+3806,Phoenix,Los Angeles,Delayed,2024-08-16 07:40:55.778607
+3807,Phoenix,New York,Delivered,2024-08-16 13:40:55.778611
+3808,New York,Los Angeles,In Transit,2024-08-16 21:40:55.778615
+3809,Los Angeles,New York,In Transit,2024-08-16 06:40:55.778619
+3810,Phoenix,Chicago,In Transit,2024-08-16 17:40:55.778623
+3811,Houston,Chicago,Delayed,2024-08-16 23:40:55.778628
+3812,New York,Los Angeles,Delayed,2024-08-16 20:40:55.778632
+3813,New York,New York,Delivered,2024-08-16 16:40:55.778636
+3814,Chicago,Los Angeles,In Transit,2024-08-16 09:40:55.778640
+3815,Chicago,New York,In Transit,2024-08-16 08:40:55.778644
+3816,Chicago,New York,Delayed,2024-08-16 04:40:55.778649
+3817,Phoenix,Los Angeles,Delayed,2024-08-16 11:40:55.778653
+3818,New York,New York,In Transit,2024-08-16 05:40:55.778657
+3819,Los Angeles,New York,Delivered,2024-08-16 10:40:55.778661
+3820,Houston,Houston,Delivered,2024-08-16 10:40:55.778665
+3821,Phoenix,Houston,Delivered,2024-08-16 05:40:55.778670
+3822,Phoenix,Phoenix,Delayed,2024-08-16 18:40:55.778674
+3823,Los Angeles,New York,Delivered,2024-08-16 10:40:55.778678
+3824,Phoenix,Phoenix,Delayed,2024-08-16 11:40:55.778682
+3825,Los Angeles,Chicago,In Transit,2024-08-17 00:40:55.778686
+3826,Los Angeles,New York,In Transit,2024-08-16 22:40:55.778691
+3827,New York,Chicago,In Transit,2024-08-16 02:40:55.778695
+3828,Phoenix,Houston,In Transit,2024-08-16 03:40:55.778699
+3829,Phoenix,Chicago,Delayed,2024-08-17 00:40:55.778703
+3830,Houston,Chicago,In Transit,2024-08-16 20:40:55.778708
+3831,Los Angeles,Los Angeles,In Transit,2024-08-16 22:40:55.778712
+3832,Houston,New York,Delivered,2024-08-16 06:40:55.778716
+3833,Houston,New York,Delayed,2024-08-16 18:40:55.778720
+3834,Houston,Phoenix,In Transit,2024-08-16 14:40:55.778724
+3835,Chicago,Chicago,Delayed,2024-08-16 20:40:55.778729
+3836,New York,Houston,Delayed,2024-08-16 02:40:55.778733
+3837,Los Angeles,Houston,Delayed,2024-08-16 14:40:55.778737
+3838,Phoenix,Chicago,Delayed,2024-08-16 21:40:55.778741
+3839,Chicago,Los Angeles,Delivered,2024-08-16 23:40:55.778745
+3840,Chicago,Chicago,In Transit,2024-08-17 00:40:55.778749
+3841,Chicago,Chicago,In Transit,2024-08-16 06:40:55.778753
+3842,Phoenix,Houston,Delayed,2024-08-16 09:40:55.778758
+3843,Chicago,Chicago,Delivered,2024-08-16 11:40:55.778762
+3844,Chicago,Phoenix,Delivered,2024-08-16 15:40:55.778766
+3845,Phoenix,Houston,Delivered,2024-08-16 23:40:55.778770
+3846,New York,Houston,Delayed,2024-08-16 08:40:55.778774
+3847,Chicago,Los Angeles,Delayed,2024-08-16 06:40:55.778779
+3848,Los Angeles,Chicago,In Transit,2024-08-16 02:40:55.778783
+3849,New York,Houston,Delivered,2024-08-16 13:40:55.778787
+3850,Phoenix,Chicago,In Transit,2024-08-16 06:40:55.778791
+3851,New York,New York,In Transit,2024-08-16 17:40:55.778796
+3852,New York,Los Angeles,Delivered,2024-08-16 11:40:55.778800
+3853,Houston,Houston,Delayed,2024-08-16 08:40:55.778804
+3854,Phoenix,Phoenix,Delayed,2024-08-16 15:40:55.778808
+3855,New York,Los Angeles,Delivered,2024-08-16 15:40:55.778812
+3856,Phoenix,Chicago,In Transit,2024-08-16 05:40:55.778817
+3857,Chicago,Los Angeles,Delivered,2024-08-16 13:40:55.778821
+3858,Phoenix,New York,In Transit,2024-08-16 09:40:55.778825
+3859,New York,Los Angeles,Delivered,2024-08-16 05:40:55.778829
+3860,Phoenix,Houston,Delivered,2024-08-16 05:40:55.778833
+3861,Houston,New York,Delivered,2024-08-16 06:40:55.778838
+3862,Houston,Chicago,Delivered,2024-08-16 11:40:55.778842
+3863,Houston,New York,Delayed,2024-08-16 19:40:55.778846
+3864,Phoenix,Phoenix,Delivered,2024-08-16 04:40:55.778850
+3865,New York,Los Angeles,In Transit,2024-08-16 23:40:55.778854
+3866,Chicago,Chicago,In Transit,2024-08-16 23:40:55.778859
+3867,Los Angeles,Houston,In Transit,2024-08-16 15:40:55.778863
+3868,Chicago,Phoenix,Delivered,2024-08-16 12:40:55.778867
+3869,Houston,Los Angeles,Delayed,2024-08-16 17:40:55.778871
+3870,New York,Houston,In Transit,2024-08-16 07:40:55.778875
+3871,Phoenix,Phoenix,Delayed,2024-08-16 07:40:55.778879
+3872,Phoenix,Los Angeles,In Transit,2024-08-16 08:40:55.778884
+3873,New York,Houston,Delayed,2024-08-16 08:40:55.778894
+3874,New York,Chicago,In Transit,2024-08-16 03:40:55.778898
+3875,Houston,Los Angeles,Delayed,2024-08-16 10:40:55.778902
+3876,Houston,Houston,Delivered,2024-08-16 13:40:55.778907
+3877,New York,Phoenix,Delayed,2024-08-16 12:40:55.778911
+3878,Houston,Chicago,In Transit,2024-08-16 23:40:55.778915
+3879,Los Angeles,Phoenix,In Transit,2024-08-16 07:40:55.778919
+3880,Phoenix,Chicago,Delivered,2024-08-16 11:40:55.778925
+3881,Houston,Houston,In Transit,2024-08-16 23:40:55.778929
+3882,Houston,Los Angeles,Delayed,2024-08-16 19:40:55.778934
+3883,Houston,Houston,Delivered,2024-08-16 20:40:55.778938
+3884,New York,Phoenix,In Transit,2024-08-16 04:40:55.778942
+3885,Los Angeles,New York,In Transit,2024-08-16 10:40:55.778946
+3886,Houston,Houston,Delayed,2024-08-16 12:40:55.778950
+3887,Los Angeles,Chicago,Delayed,2024-08-16 02:40:55.778955
+3888,Los Angeles,Phoenix,Delayed,2024-08-16 03:40:55.778959
+3889,New York,Houston,Delayed,2024-08-16 13:40:55.778963
+3890,Houston,Phoenix,In Transit,2024-08-16 04:40:55.778967
+3891,Los Angeles,Chicago,Delayed,2024-08-16 19:40:55.778971
+3892,Houston,Chicago,Delivered,2024-08-16 13:40:55.778976
+3893,Houston,Chicago,Delivered,2024-08-16 17:40:55.778980
+3894,Chicago,Los Angeles,In Transit,2024-08-16 07:40:55.778984
+3895,Phoenix,Houston,Delayed,2024-08-16 19:40:55.778988
+3896,Houston,Los Angeles,In Transit,2024-08-16 07:40:55.778992
+3897,New York,Chicago,In Transit,2024-08-16 13:40:55.778997
+3898,Phoenix,New York,Delivered,2024-08-16 04:40:55.779001
+3899,New York,Houston,Delayed,2024-08-16 10:40:55.779005
+3900,New York,Houston,In Transit,2024-08-16 13:40:55.779009
+3901,New York,Phoenix,Delivered,2024-08-16 09:40:55.779013
+3902,Chicago,Los Angeles,Delivered,2024-08-16 14:40:55.779017
+3903,Phoenix,New York,In Transit,2024-08-17 00:40:55.779022
+3904,New York,Los Angeles,Delayed,2024-08-16 22:40:55.779026
+3905,Chicago,Los Angeles,Delayed,2024-08-16 02:40:55.779030
+3906,Phoenix,Chicago,In Transit,2024-08-17 00:40:55.779034
+3907,New York,Houston,Delivered,2024-08-16 03:40:55.779039
+3908,New York,Los Angeles,Delayed,2024-08-16 23:40:55.779043
+3909,Houston,New York,In Transit,2024-08-16 21:40:55.779047
+3910,Phoenix,Houston,Delayed,2024-08-16 16:40:55.779051
+3911,Los Angeles,Houston,In Transit,2024-08-16 13:40:55.779055
+3912,New York,Los Angeles,Delayed,2024-08-16 21:40:55.779060
+3913,New York,Los Angeles,Delivered,2024-08-16 11:40:55.779064
+3914,New York,New York,In Transit,2024-08-16 19:40:55.779068
+3915,Houston,New York,In Transit,2024-08-16 06:40:55.779072
+3916,Houston,Houston,In Transit,2024-08-16 04:40:55.779076
+3917,Houston,Phoenix,In Transit,2024-08-16 08:40:55.779080
+3918,Phoenix,Houston,Delayed,2024-08-16 23:40:55.779085
+3919,Chicago,Phoenix,In Transit,2024-08-16 07:40:55.779089
+3920,Phoenix,New York,Delivered,2024-08-16 20:40:55.779093
+3921,Chicago,Chicago,Delayed,2024-08-16 18:40:55.779097
+3922,Los Angeles,Los Angeles,Delayed,2024-08-16 08:40:55.779101
+3923,Phoenix,Los Angeles,In Transit,2024-08-16 17:40:55.779105
+3924,New York,Los Angeles,Delivered,2024-08-16 17:40:55.779110
+3925,Los Angeles,Phoenix,Delivered,2024-08-16 08:40:55.779114
+3926,New York,Phoenix,Delayed,2024-08-16 11:40:55.779118
+3927,Chicago,Houston,In Transit,2024-08-16 15:40:55.779122
+3928,Houston,New York,Delayed,2024-08-16 22:40:55.779126
+3929,Chicago,Chicago,In Transit,2024-08-16 03:40:55.779130
+3930,Phoenix,Phoenix,Delivered,2024-08-16 18:40:55.779135
+3931,Los Angeles,Houston,In Transit,2024-08-16 16:40:55.779139
+3932,Los Angeles,Houston,In Transit,2024-08-16 23:40:55.779143
+3933,Los Angeles,New York,In Transit,2024-08-16 03:40:55.779147
+3934,Chicago,Houston,Delayed,2024-08-16 09:40:55.779151
+3935,Phoenix,Chicago,Delayed,2024-08-16 21:40:55.779155
+3936,Houston,New York,Delayed,2024-08-16 21:40:55.779160
+3937,Los Angeles,Los Angeles,Delayed,2024-08-16 16:40:55.779164
+3938,Houston,Chicago,Delayed,2024-08-16 22:40:55.779168
+3939,Los Angeles,Los Angeles,Delivered,2024-08-16 23:40:55.779172
+3940,Los Angeles,Chicago,Delivered,2024-08-16 16:40:55.779176
+3941,Chicago,Los Angeles,In Transit,2024-08-16 05:40:55.779180
+3942,New York,Houston,Delivered,2024-08-16 10:40:55.779184
+3943,Los Angeles,Phoenix,Delayed,2024-08-16 19:40:55.779189
+3944,New York,Phoenix,In Transit,2024-08-16 10:40:55.779193
+3945,Chicago,Chicago,Delivered,2024-08-16 11:40:55.779197
+3946,Los Angeles,Los Angeles,In Transit,2024-08-17 00:40:55.779201
+3947,Phoenix,Chicago,Delayed,2024-08-16 03:40:55.779205
+3948,Los Angeles,Houston,Delayed,2024-08-16 05:40:55.779210
+3949,Los Angeles,Phoenix,Delivered,2024-08-16 02:40:55.779214
+3950,Phoenix,Los Angeles,Delayed,2024-08-16 05:40:55.779218
+3951,Phoenix,Los Angeles,In Transit,2024-08-16 14:40:55.779222
+3952,Los Angeles,Houston,In Transit,2024-08-17 00:40:55.779226
+3953,Houston,Phoenix,In Transit,2024-08-16 22:40:55.779230
+3954,Chicago,Los Angeles,Delivered,2024-08-16 10:40:55.779235
+3955,Houston,Phoenix,In Transit,2024-08-16 09:40:55.779239
+3956,Los Angeles,New York,In Transit,2024-08-16 16:40:55.779243
+3957,New York,Chicago,Delayed,2024-08-16 18:40:55.779247
+3958,Phoenix,Houston,Delivered,2024-08-16 15:40:55.779251
+3959,Phoenix,Los Angeles,Delivered,2024-08-16 07:40:55.779255
+3960,New York,New York,Delivered,2024-08-16 20:40:55.779260
+3961,Chicago,Los Angeles,Delivered,2024-08-16 15:40:55.779264
+3962,Chicago,New York,Delayed,2024-08-16 08:40:55.779268
+3963,Los Angeles,New York,Delivered,2024-08-16 07:40:55.779272
+3964,Los Angeles,Phoenix,Delivered,2024-08-16 14:40:55.779278
+3965,Phoenix,Houston,In Transit,2024-08-17 00:40:55.779282
+3966,New York,Los Angeles,Delivered,2024-08-16 03:40:55.779286
+3967,New York,Chicago,Delivered,2024-08-16 06:40:55.779290
+3968,Houston,Houston,Delayed,2024-08-16 16:40:55.779295
+3969,Chicago,Chicago,Delivered,2024-08-16 16:40:55.779299
+3970,Chicago,Los Angeles,Delivered,2024-08-16 07:40:55.779303
+3971,Los Angeles,Los Angeles,Delayed,2024-08-16 14:40:55.779307
+3972,Los Angeles,Chicago,Delayed,2024-08-16 13:40:55.779311
+3973,Chicago,Los Angeles,Delivered,2024-08-16 08:40:55.779316
+3974,Houston,New York,Delayed,2024-08-16 10:40:55.779320
+3975,Los Angeles,New York,Delivered,2024-08-16 13:40:55.779324
+3976,Los Angeles,Los Angeles,In Transit,2024-08-16 05:40:55.779328
+3977,Houston,Phoenix,Delayed,2024-08-16 19:40:55.779332
+3978,Phoenix,Los Angeles,Delayed,2024-08-16 17:40:55.779337
+3979,Chicago,Los Angeles,Delayed,2024-08-16 18:40:55.779341
+3980,New York,Chicago,Delivered,2024-08-16 14:40:55.779345
+3981,New York,New York,In Transit,2024-08-16 17:40:55.779349
+3982,New York,Phoenix,In Transit,2024-08-16 17:40:55.779353
+3983,New York,New York,Delivered,2024-08-16 19:40:55.779357
+3984,New York,Phoenix,Delayed,2024-08-16 13:40:55.779362
+3985,Phoenix,Houston,In Transit,2024-08-16 11:40:55.779366
+3986,Chicago,Houston,In Transit,2024-08-16 03:40:55.779370
+3987,Los Angeles,Phoenix,Delivered,2024-08-17 00:40:55.779374
+3988,New York,Los Angeles,Delayed,2024-08-16 08:40:55.779378
+3989,Houston,New York,Delayed,2024-08-16 07:40:55.779383
+3990,New York,Chicago,In Transit,2024-08-16 13:40:55.779387
+3991,Phoenix,Houston,Delayed,2024-08-16 05:40:55.779391
+3992,Chicago,Chicago,Delivered,2024-08-16 19:40:55.779395
+3993,Houston,Los Angeles,Delivered,2024-08-16 19:40:55.779399
+3994,New York,Phoenix,In Transit,2024-08-16 18:40:55.779403
+3995,Phoenix,Chicago,Delivered,2024-08-16 21:40:55.779408
+3996,New York,Los Angeles,In Transit,2024-08-16 19:40:55.779412
+3997,New York,Los Angeles,Delayed,2024-08-16 23:40:55.779416
+3998,Houston,Chicago,In Transit,2024-08-16 02:40:55.779420
+3999,Phoenix,New York,Delivered,2024-08-16 20:40:55.779424
+4000,Chicago,Houston,In Transit,2024-08-16 19:40:55.779428

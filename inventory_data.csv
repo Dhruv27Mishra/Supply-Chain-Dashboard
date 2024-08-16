@@ -1,0 +1,501 @@
+Product ID,Product Name,Warehouse Location,Current Stock Level,Reorder Point
+1001,Product 0,Phoenix,169,19
+1002,Product 1,New York,114,33
+1003,Product 2,Houston,229,10
+1004,Product 3,Houston,219,27
+1005,Product 4,Houston,246,31
+1006,Product 5,Los Angeles,100,40
+1007,Product 6,Houston,221,36
+1008,Product 7,Chicago,178,25
+1009,Product 8,Phoenix,174,27
+1010,Product 9,New York,93,20
+1011,Product 10,New York,114,27
+1012,Product 11,Phoenix,161,13
+1013,Product 12,Chicago,268,49
+1014,Product 13,Los Angeles,224,19
+1015,Product 14,New York,233,39
+1016,Product 15,Los Angeles,66,13
+1017,Product 16,Los Angeles,125,17
+1018,Product 17,New York,138,26
+1019,Product 18,Los Angeles,112,44
+1020,Product 19,Phoenix,218,14
+1021,Product 20,Houston,155,36
+1022,Product 21,New York,184,46
+1023,Product 22,Houston,120,16
+1024,Product 23,New York,197,42
+1025,Product 24,Chicago,290,27
+1026,Product 25,Houston,3,47
+1027,Product 26,New York,188,37
+1028,Product 27,Los Angeles,238,24
+1029,Product 28,Houston,165,32
+1030,Product 29,Houston,171,41
+1031,Product 30,Houston,211,18
+1032,Product 31,New York,70,39
+1033,Product 32,Los Angeles,148,38
+1034,Product 33,Los Angeles,284,41
+1035,Product 34,Los Angeles,115,44
+1036,Product 35,New York,92,27
+1037,Product 36,Chicago,102,38
+1038,Product 37,Phoenix,197,26
+1039,Product 38,Houston,109,18
+1040,Product 39,Houston,100,17
+1041,Product 40,Chicago,182,22
+1042,Product 41,Phoenix,159,42
+1043,Product 42,Chicago,81,30
+1044,Product 43,New York,35,21
+1045,Product 44,New York,237,39
+1046,Product 45,Phoenix,243,10
+1047,Product 46,New York,250,30
+1048,Product 47,Phoenix,254,38
+1049,Product 48,Los Angeles,281,23
+1050,Product 49,Phoenix,21,47
+1051,Product 50,Los Angeles,229,49
+1052,Product 51,Chicago,153,14
+1053,Product 52,Chicago,119,22
+1054,Product 53,New York,165,47
+1055,Product 54,Los Angeles,198,14
+1056,Product 55,Los Angeles,74,46
+1057,Product 56,Los Angeles,78,26
+1058,Product 57,Los Angeles,72,28
+1059,Product 58,Houston,199,47
+1060,Product 59,Houston,133,40
+1061,Product 60,Chicago,47,45
+1062,Product 61,Houston,187,10
+1063,Product 62,New York,170,19
+1064,Product 63,Houston,138,43
+1065,Product 64,Phoenix,242,22
+1066,Product 65,Los Angeles,125,16
+1067,Product 66,Chicago,206,46
+1068,Product 67,Phoenix,197,45
+1069,Product 68,Houston,186,48
+1070,Product 69,Phoenix,17,46
+1071,Product 70,Phoenix,197,40
+1072,Product 71,Phoenix,152,29
+1073,Product 72,Houston,131,48
+1074,Product 73,Phoenix,164,45
+1075,Product 74,Phoenix,58,24
+1076,Product 75,Phoenix,177,39
+1077,Product 76,New York,152,27
+1078,Product 77,Phoenix,161,13
+1079,Product 78,Houston,241,39
+1080,Product 79,Chicago,135,37
+1081,Product 80,New York,235,13
+1082,Product 81,Los Angeles,46,43
+1083,Product 82,Los Angeles,127,37
+1084,Product 83,Houston,157,46
+1085,Product 84,New York,12,31
+1086,Product 85,New York,118,49
+1087,Product 86,Los Angeles,288,20
+1088,Product 87,Chicago,290,39
+1089,Product 88,Phoenix,115,39
+1090,Product 89,Chicago,87,34
+1091,Product 90,New York,124,26
+1092,Product 91,Houston,174,10
+1093,Product 92,Chicago,52,46
+1094,Product 93,Chicago,110,44
+1095,Product 94,New York,64,23
+1096,Product 95,Los Angeles,73,11
+1097,Product 96,New York,146,12
+1098,Product 97,Chicago,260,12
+1099,Product 98,Chicago,263,29
+1100,Product 99,Houston,131,22
+1101,Product 100,Chicago,48,40
+1102,Product 101,Houston,76,49
+1103,Product 102,Chicago,293,31
+1104,Product 103,Los Angeles,116,23
+1105,Product 104,Chicago,48,36
+1106,Product 105,Houston,109,22
+1107,Product 106,Houston,179,10
+1108,Product 107,Houston,49,11
+1109,Product 108,Chicago,71,46
+1110,Product 109,Houston,285,20
+1111,Product 110,Phoenix,3,42
+1112,Product 111,Los Angeles,74,38
+1113,Product 112,Chicago,84,12
+1114,Product 113,Houston,20,38
+1115,Product 114,Los Angeles,208,11
+1116,Product 115,Chicago,42,23
+1117,Product 116,Los Angeles,28,29
+1118,Product 117,Phoenix,180,27
+1119,Product 118,Chicago,102,46
+1120,Product 119,Houston,265,17
+1121,Product 120,New York,258,16
+1122,Product 121,Houston,233,19
+1123,Product 122,Chicago,100,25
+1124,Product 123,Houston,90,28
+1125,Product 124,New York,68,39
+1126,Product 125,New York,105,28
+1127,Product 126,New York,10,12
+1128,Product 127,Houston,12,39
+1129,Product 128,Chicago,104,27
+1130,Product 129,Houston,225,45
+1131,Product 130,New York,167,29
+1132,Product 131,Phoenix,289,26
+1133,Product 132,New York,99,33
+1134,Product 133,New York,217,22
+1135,Product 134,Chicago,210,45
+1136,Product 135,Houston,276,12
+1137,Product 136,Chicago,222,30
+1138,Product 137,Houston,156,13
+1139,Product 138,New York,72,27
+1140,Product 139,New York,274,48
+1141,Product 140,New York,39,20
+1142,Product 141,Houston,234,47
+1143,Product 142,New York,123,37
+1144,Product 143,Chicago,284,14
+1145,Product 144,Chicago,152,32
+1146,Product 145,New York,146,47
+1147,Product 146,Phoenix,195,45
+1148,Product 147,Houston,172,40
+1149,Product 148,Phoenix,211,17
+1150,Product 149,New York,0,34
+1151,Product 150,Phoenix,138,34
+1152,Product 151,Houston,195,25
+1153,Product 152,Houston,219,20
+1154,Product 153,Phoenix,162,29
+1155,Product 154,Los Angeles,50,23
+1156,Product 155,Houston,242,49
+1157,Product 156,New York,20,47
+1158,Product 157,New York,171,49
+1159,Product 158,New York,118,28
+1160,Product 159,Los Angeles,128,17
+1161,Product 160,New York,105,34
+1162,Product 161,Phoenix,194,42
+1163,Product 162,Los Angeles,225,49
+1164,Product 163,Houston,140,46
+1165,Product 164,Los Angeles,271,26
+1166,Product 165,New York,118,36
+1167,Product 166,New York,33,26
+1168,Product 167,Phoenix,151,42
+1169,Product 168,Houston,38,40
+1170,Product 169,Houston,257,30
+1171,Product 170,Los Angeles,266,33
+1172,Product 171,New York,6,25
+1173,Product 172,New York,262,29
+1174,Product 173,Los Angeles,102,44
+1175,Product 174,Chicago,178,37
+1176,Product 175,New York,258,44
+1177,Product 176,Houston,157,27
+1178,Product 177,Los Angeles,9,33
+1179,Product 178,Los Angeles,115,37
+1180,Product 179,Phoenix,116,23
+1181,Product 180,New York,181,33
+1182,Product 181,New York,235,40
+1183,Product 182,Houston,193,15
+1184,Product 183,Chicago,299,49
+1185,Product 184,Houston,79,43
+1186,Product 185,Chicago,62,44
+1187,Product 186,Phoenix,47,38
+1188,Product 187,Houston,76,11
+1189,Product 188,Houston,149,14
+1190,Product 189,New York,120,31
+1191,Product 190,Houston,274,18
+1192,Product 191,New York,13,43
+1193,Product 192,Phoenix,222,45
+1194,Product 193,Chicago,92,45
+1195,Product 194,Houston,236,35
+1196,Product 195,Phoenix,105,15
+1197,Product 196,New York,213,11
+1198,Product 197,Chicago,6,45
+1199,Product 198,Houston,100,17
+1200,Product 199,Houston,48,11
+1201,Product 200,Los Angeles,40,11
+1202,Product 201,Houston,158,17
+1203,Product 202,Phoenix,143,35
+1204,Product 203,Houston,37,46
+1205,Product 204,Houston,59,23
+1206,Product 205,Los Angeles,113,37
+1207,Product 206,Los Angeles,95,42
+1208,Product 207,Los Angeles,208,29
+1209,Product 208,Houston,288,44
+1210,Product 209,Chicago,62,46
+1211,Product 210,Chicago,93,26
+1212,Product 211,Phoenix,150,13
+1213,Product 212,Houston,292,18
+1214,Product 213,Los Angeles,83,29
+1215,Product 214,Chicago,127,10
+1216,Product 215,Houston,261,30
+1217,Product 216,Los Angeles,154,42
+1218,Product 217,Phoenix,241,44
+1219,Product 218,Chicago,83,15
+1220,Product 219,Chicago,135,31
+1221,Product 220,New York,180,34
+1222,Product 221,Los Angeles,80,12
+1223,Product 222,New York,0,17
+1224,Product 223,Phoenix,215,21
+1225,Product 224,New York,207,38
+1226,Product 225,Houston,252,41
+1227,Product 226,Chicago,131,11
+1228,Product 227,New York,61,26
+1229,Product 228,New York,144,28
+1230,Product 229,Los Angeles,84,24
+1231,Product 230,Los Angeles,116,31
+1232,Product 231,New York,229,15
+1233,Product 232,Houston,255,43
+1234,Product 233,New York,48,12
+1235,Product 234,Houston,145,37
+1236,Product 235,New York,9,29
+1237,Product 236,Phoenix,190,25
+1238,Product 237,Phoenix,79,17
+1239,Product 238,New York,230,39
+1240,Product 239,Los Angeles,206,45
+1241,Product 240,Houston,228,43
+1242,Product 241,Phoenix,279,26
+1243,Product 242,Houston,7,34
+1244,Product 243,Chicago,278,15
+1245,Product 244,Los Angeles,158,29
+1246,Product 245,Los Angeles,246,27
+1247,Product 246,Chicago,80,42
+1248,Product 247,Los Angeles,155,32
+1249,Product 248,Phoenix,47,43
+1250,Product 249,Chicago,114,48
+1251,Product 250,Phoenix,11,19
+1252,Product 251,Phoenix,286,15
+1253,Product 252,Chicago,90,22
+1254,Product 253,Houston,290,26
+1255,Product 254,Houston,54,27
+1256,Product 255,Los Angeles,163,14
+1257,Product 256,Chicago,71,35
+1258,Product 257,Phoenix,112,24
+1259,Product 258,Houston,68,27
+1260,Product 259,Houston,13,39
+1261,Product 260,Los Angeles,101,16
+1262,Product 261,Los Angeles,275,38
+1263,Product 262,Los Angeles,264,20
+1264,Product 263,Los Angeles,209,15
+1265,Product 264,Chicago,197,46
+1266,Product 265,New York,100,46
+1267,Product 266,Houston,253,30
+1268,Product 267,Los Angeles,157,32
+1269,Product 268,Phoenix,230,20
+1270,Product 269,Houston,150,40
+1271,Product 270,Los Angeles,30,24
+1272,Product 271,Los Angeles,255,11
+1273,Product 272,Chicago,19,17
+1274,Product 273,New York,260,15
+1275,Product 274,New York,148,25
+1276,Product 275,Chicago,74,42
+1277,Product 276,Phoenix,123,33
+1278,Product 277,New York,214,24
+1279,Product 278,Phoenix,229,44
+1280,Product 279,Houston,250,39
+1281,Product 280,Houston,93,35
+1282,Product 281,New York,169,14
+1283,Product 282,New York,40,10
+1284,Product 283,Houston,188,36
+1285,Product 284,Houston,209,30
+1286,Product 285,New York,179,15
+1287,Product 286,Houston,296,34
+1288,Product 287,New York,59,27
+1289,Product 288,Chicago,29,14
+1290,Product 289,Los Angeles,225,42
+1291,Product 290,New York,94,27
+1292,Product 291,Phoenix,238,18
+1293,Product 292,New York,165,19
+1294,Product 293,Houston,216,46
+1295,Product 294,Phoenix,272,41
+1296,Product 295,Phoenix,167,40
+1297,Product 296,Los Angeles,157,19
+1298,Product 297,New York,65,45
+1299,Product 298,Chicago,279,42
+1300,Product 299,Phoenix,200,24
+1301,Product 300,Phoenix,87,33
+1302,Product 301,Chicago,293,42
+1303,Product 302,Phoenix,217,38
+1304,Product 303,Houston,134,43
+1305,Product 304,Chicago,216,18
+1306,Product 305,Houston,101,47
+1307,Product 306,New York,297,12
+1308,Product 307,New York,43,27
+1309,Product 308,New York,110,25
+1310,Product 309,Houston,239,13
+1311,Product 310,Phoenix,278,31
+1312,Product 311,Phoenix,11,39
+1313,Product 312,Chicago,119,47
+1314,Product 313,Chicago,282,32
+1315,Product 314,Phoenix,48,28
+1316,Product 315,Los Angeles,199,17
+1317,Product 316,Houston,239,36
+1318,Product 317,Houston,182,14
+1319,Product 318,Houston,96,35
+1320,Product 319,Los Angeles,87,36
+1321,Product 320,Chicago,2,29
+1322,Product 321,Chicago,264,24
+1323,Product 322,Houston,266,28
+1324,Product 323,Chicago,261,42
+1325,Product 324,Houston,294,37
+1326,Product 325,Phoenix,100,46
+1327,Product 326,Phoenix,117,48
+1328,Product 327,Chicago,59,30
+1329,Product 328,Los Angeles,164,13
+1330,Product 329,Chicago,261,28
+1331,Product 330,New York,38,23
+1332,Product 331,Houston,163,41
+1333,Product 332,New York,88,43
+1334,Product 333,Chicago,207,28
+1335,Product 334,Phoenix,265,22
+1336,Product 335,Houston,132,37
+1337,Product 336,Chicago,24,49
+1338,Product 337,Los Angeles,94,44
+1339,Product 338,Chicago,77,17
+1340,Product 339,Los Angeles,267,40
+1341,Product 340,Phoenix,81,26
+1342,Product 341,Los Angeles,154,11
+1343,Product 342,New York,175,34
+1344,Product 343,New York,98,26
+1345,Product 344,New York,21,37
+1346,Product 345,New York,170,47
+1347,Product 346,New York,145,34
+1348,Product 347,Los Angeles,101,22
+1349,Product 348,New York,244,14
+1350,Product 349,Houston,183,24
+1351,Product 350,Los Angeles,100,20
+1352,Product 351,Phoenix,196,37
+1353,Product 352,Los Angeles,111,24
+1354,Product 353,Chicago,226,48
+1355,Product 354,Phoenix,267,23
+1356,Product 355,New York,97,14
+1357,Product 356,New York,238,32
+1358,Product 357,Chicago,11,25
+1359,Product 358,New York,25,39
+1360,Product 359,Phoenix,97,24
+1361,Product 360,Phoenix,262,35
+1362,Product 361,Phoenix,89,21
+1363,Product 362,Los Angeles,38,41
+1364,Product 363,Los Angeles,51,37
+1365,Product 364,Phoenix,16,32
+1366,Product 365,Los Angeles,218,30
+1367,Product 366,Los Angeles,259,12
+1368,Product 367,Houston,122,35
+1369,Product 368,Los Angeles,258,10
+1370,Product 369,Houston,133,41
+1371,Product 370,Houston,271,16
+1372,Product 371,Los Angeles,180,28
+1373,Product 372,Los Angeles,263,32
+1374,Product 373,Los Angeles,179,35
+1375,Product 374,New York,249,23
+1376,Product 375,Houston,183,22
+1377,Product 376,New York,113,47
+1378,Product 377,Phoenix,205,29
+1379,Product 378,Los Angeles,88,41
+1380,Product 379,Phoenix,252,38
+1381,Product 380,New York,117,29
+1382,Product 381,Houston,185,35
+1383,Product 382,Chicago,102,39
+1384,Product 383,Los Angeles,206,38
+1385,Product 384,Phoenix,82,20
+1386,Product 385,Phoenix,236,30
+1387,Product 386,Phoenix,3,27
+1388,Product 387,New York,165,10
+1389,Product 388,New York,285,49
+1390,Product 389,Chicago,78,48
+1391,Product 390,New York,267,44
+1392,Product 391,Houston,11,11
+1393,Product 392,Houston,272,32
+1394,Product 393,Phoenix,60,32
+1395,Product 394,Los Angeles,123,49
+1396,Product 395,Phoenix,103,38
+1397,Product 396,Houston,191,11
+1398,Product 397,Houston,187,31
+1399,Product 398,Houston,129,12
+1400,Product 399,Phoenix,181,42
+1401,Product 400,Chicago,284,16
+1402,Product 401,Los Angeles,216,48
+1403,Product 402,Chicago,73,45
+1404,Product 403,Chicago,15,46
+1405,Product 404,Los Angeles,131,33
+1406,Product 405,Houston,106,28
+1407,Product 406,Houston,213,48
+1408,Product 407,Phoenix,284,35
+1409,Product 408,Phoenix,213,25
+1410,Product 409,Chicago,78,37
+1411,Product 410,Los Angeles,267,31
+1412,Product 411,Los Angeles,281,11
+1413,Product 412,New York,267,19
+1414,Product 413,New York,237,27
+1415,Product 414,Chicago,144,21
+1416,Product 415,Phoenix,257,10
+1417,Product 416,Houston,16,13
+1418,Product 417,Houston,33,46
+1419,Product 418,Chicago,33,30
+1420,Product 419,Los Angeles,172,29
+1421,Product 420,New York,296,15
+1422,Product 421,Phoenix,205,30
+1423,Product 422,Los Angeles,106,14
+1424,Product 423,Phoenix,83,26
+1425,Product 424,Phoenix,242,26
+1426,Product 425,Chicago,150,15
+1427,Product 426,New York,64,42
+1428,Product 427,New York,229,32
+1429,Product 428,Houston,287,13
+1430,Product 429,Los Angeles,79,18
+1431,Product 430,Los Angeles,83,38
+1432,Product 431,New York,271,20
+1433,Product 432,Phoenix,173,48
+1434,Product 433,Houston,10,38
+1435,Product 434,Houston,105,41
+1436,Product 435,Phoenix,70,21
+1437,Product 436,Houston,21,44
+1438,Product 437,Phoenix,222,37
+1439,Product 438,Houston,195,17
+1440,Product 439,New York,129,49
+1441,Product 440,Houston,185,48
+1442,Product 441,Houston,271,15
+1443,Product 442,Los Angeles,28,19
+1444,Product 443,Houston,283,34
+1445,Product 444,Phoenix,216,22
+1446,Product 445,New York,216,43
+1447,Product 446,Houston,269,24
+1448,Product 447,New York,78,25
+1449,Product 448,New York,276,14
+1450,Product 449,Houston,71,32
+1451,Product 450,Los Angeles,183,12
+1452,Product 451,Chicago,235,17
+1453,Product 452,Houston,245,18
+1454,Product 453,Chicago,91,15
+1455,Product 454,Houston,44,49
+1456,Product 455,New York,271,25
+1457,Product 456,Houston,87,25
+1458,Product 457,Chicago,77,35
+1459,Product 458,New York,95,32
+1460,Product 459,Houston,110,35
+1461,Product 460,Los Angeles,210,35
+1462,Product 461,Phoenix,132,29
+1463,Product 462,Houston,28,39
+1464,Product 463,Los Angeles,193,19
+1465,Product 464,Chicago,49,21
+1466,Product 465,Los Angeles,57,45
+1467,Product 466,Phoenix,208,36
+1468,Product 467,Los Angeles,41,49
+1469,Product 468,Houston,240,28
+1470,Product 469,Los Angeles,194,18
+1471,Product 470,Houston,273,11
+1472,Product 471,Chicago,20,45
+1473,Product 472,Phoenix,166,20
+1474,Product 473,Los Angeles,134,20
+1475,Product 474,Phoenix,236,34
+1476,Product 475,Los Angeles,150,41
+1477,Product 476,Phoenix,79,37
+1478,Product 477,Los Angeles,74,23
+1479,Product 478,Chicago,162,24
+1480,Product 479,Chicago,168,15
+1481,Product 480,Houston,166,33
+1482,Product 481,Los Angeles,149,49
+1483,Product 482,Chicago,290,47
+1484,Product 483,Chicago,160,48
+1485,Product 484,Phoenix,99,21
+1486,Product 485,Chicago,297,34
+1487,Product 486,Chicago,249,27
+1488,Product 487,Houston,251,31
+1489,Product 488,New York,138,40
+1490,Product 489,Phoenix,273,28
+1491,Product 490,Chicago,259,35
+1492,Product 491,New York,101,39
+1493,Product 492,New York,94,47
+1494,Product 493,Chicago,285,41
+1495,Product 494,Houston,102,49
+1496,Product 495,Los Angeles,123,21
+1497,Product 496,Houston,158,24
+1498,Product 497,Chicago,203,42
+1499,Product 498,Phoenix,135,11
+1500,Product 499,Los Angeles,179,11
